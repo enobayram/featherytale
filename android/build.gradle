@@ -1,0 +1,198 @@
+apply plugin: 'com.android.application'
+
+def orx_android_folder = file("$System.env.ORX_DIR/code").exists()?"$System.env.ORX_DIR/code" :
+								   "$System.env.ORX_DIR/dev-android"
+
+import com.android.build.OutputFile
+
+def game_version = file("../meta/game_version").readLines()[0]
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.1"
+
+    defaultConfig {
+        applicationId "com.mategames.featherytale"
+        minSdkVersion 15
+        versionCode 8
+        versionName game_version
+    }
+
+    signingConfigs {
+        release {
+            def passwdFile = file("./keys/passwd")
+            def LinkedList<String> passwds
+            if(passwdFile.exists()) passwds = passwdFile.readLines()
+            else {
+                passwds = new LinkedList<>()
+                passwds.add("")
+                passwds.add("")
+            }
+            storeFile file("./keys/mategames.jks")
+            storePassword passwds[0]
+            keyAlias "featherytale"
+            keyPassword passwds[1]
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+        }
+    }
+
+    sourceSets.main {
+        jniLibs.srcDirs = ['src/libs']
+        java.srcDirs = ['build/generated/swig', 'src/main/java']
+    }
+
+    splits {
+        abi {
+            enable false // set this to true in order to enable multiple apk versions
+            reset()
+            include 'x86', 'armeabi-v7a'
+            universalApk true
+        }
+    }
+
+    def versionCodes = ['armeabi': 1, 'armeabi-v7a': 2, 'arm64-v8a': 3, 'mips': 5, 'mips64': 6, 'x86': 8, 'x86_64': 9]
+
+    applicationVariants.all { variant ->
+        // assign different version code for each output
+        variant.outputs.each { output ->
+            def abiFilter = output.getFilter(OutputFile.ABI)
+            def abiMultiplier = 0
+
+            if (abiFilter != null) {
+                abiMultiplier = versionCodes.get(abiFilter)
+            }
+
+            output.versionCodeOverride =
+                    abiMultiplier * 1000000 + android.defaultConfig.versionCode
+        }
+    }
+
+}
+
+repositories {
+    jcenter()
+    mavenCentral()
+    flatDir {
+        dirs "$orx_android_folder/demo/android/app/aars"
+    }
+}
+
+task buildDescription(type:BuildDescriptionTask) {
+    def outDir = "build/intermediates/ini/gen/"
+    out = outDir+"/build_info.ini"
+    gv = game_version
+    outputs.dir outDir
+    outputs.upToDateWhen { false }
+    new File(outDir).mkdirs()
+}
+
+class BuildDescriptionTask extends DefaultTask {
+    String out
+    String gv
+
+    @TaskAction
+    def create_description() {
+        def desc_command = "git describe --tags --always --dirty".execute()
+        def description = desc_command.text.readLines()[0]
+        def commit = ""
+        desc_command.waitFor()
+        if(desc_command.exitValue()!=0) {
+            description = "unknown_commit"
+            commit = description
+        } else {
+            def commit_command = "git log --pretty=format:%h -n 1".execute()
+            commit = commit_command.text.readLines()[0]
+            commit_command.waitFor()
+        }
+        def date_str = new Date().format('yyyy-MM-dd')
+        new File(out).text = "[BuildInfo]\nDescription = " + description + " : " + date_str + "\nCommit = \"" + commit + "\"\nVersion = \"" + gv + '"'
+    }
+}
+
+task swig(type:Exec) {
+    def interfaceFile = "src/jni/platform.i"
+    def javaOutDir = "build/generated/swig/platform"
+    def cppOutDir = "build/intermediates/swig_gen"
+    def cppOut = cppOutDir+"/platform_wrapper.cpp"
+    inputs.dir "src/jni/src"
+    inputs.file interfaceFile
+    outputs.dir javaOutDir
+    outputs.dir cppOutDir
+    new File(javaOutDir).mkdirs()
+    new File(cppOutDir).mkdirs()
+    commandLine 'swig'
+    args "-c++", "-java", "-o", cppOut, "-outdir", javaOutDir, "-package", "platform", interfaceFile
+}
+
+task bundleConfig(type:Exec) {
+    def outDir = "build/intermediates/ini/"
+    new File(outDir).mkdirs()
+    commandLine 'python'
+    args "../tools/conflateConfig.py", "android.ini", outDir+"orx.ini", "-I../data", "-I../data/config", "-I"+outDir
+    dependsOn buildDescription
+
+    // Only show the output if something went wrong.
+    standardOutput = new ByteArrayOutputStream()
+    errorOutput = standardOutput
+    ignoreExitValue = true
+    doLast {
+        if (execResult.exitValue != 0) {
+            println(standardOutput.toString())
+            throw new GradleException("exec failed; see output above")
+        }
+    }
+}
+
+task encryptConfig(type:Exec) {
+    def outDir = "build/generated/ini/"
+    def key = new File("../meta/config_encryption_key").readLines()[0]
+    new File(outDir).mkdirs()
+    commandLine 'orxcrypt'
+    args "-f", "build/intermediates/ini/orx.ini", "-o", outDir+"orx.ini", "-k", key
+    dependsOn bundleConfig
+}
+
+task ndkBuild(type:Exec) {
+    workingDir 'src'
+    commandLine 'ndk-build'
+    environment NDK_MODULE_PATH: orx_android_folder
+    args "-j4"
+    dependsOn swig
+}
+
+task runDebug(type:Exec) {
+   commandLine 'adb'
+   args "shell", "am", "start", "-n", "com.mategames.featherytale/.MainActivity"
+   dependsOn build, "installDebug"
+}
+
+preBuild.dependsOn ndkBuild
+preBuild.dependsOn encryptConfig
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.android.support:support-v4:20.0.0'
+    compile 'com.google.android.gms:play-services-ads:8.4.0'
+    compile(name:'orx-lib', ext:'aar')
+    compile 'com.facebook.android:facebook-android-sdk:[4,5)'
+}
+
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.1.2'
+
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+

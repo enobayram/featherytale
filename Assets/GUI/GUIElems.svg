@@ -1,0 +1,1499 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg30786"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="GUIElems.svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="320.67819"
+     inkscape:cy="615.58211"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1030"
+     inkscape:window-x="0"
+     inkscape:window-y="146"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       inkscape:connector-curvature="0"
+       id="path16816"
+       style="fill:#4d2f25;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 468.06896,90.976678 -419.119997,0 0,-10.5 6.0025,-3.1875 -6.0025,-2.625 0,-14.825 7.5025,-4.3125 -7.5025,-3.9375 0,-16.625 419.119997,0 0,11.125 -9.0025,3.5 9.0025,4 0,12.8875 -7.5025,3.875 7.5025,2.875 0,17.75"
+       inkscape:export-filename="/home/enis/local/feedthebird/Assets/GUI/path17612.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path16818"
+       style="fill:#764a33;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 53.451463,86.476678 0,-5.625 6.00125,-3.75 -6.00125,-3 0,-13.5125 7.501245,-5.25 -7.501245,-4.3125 0,-11.5625 410.116247,0 0,6.0375 -9.0025,4.4 9.0025,4.125 0,12.475 -7.5025,3.5625 7.5025,3.85 0,12.5625 -410.116247,0"
+       inkscape:export-filename="/home/enis/local/feedthebird/Assets/GUI/path17612.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path16948"
+       style="fill:#4d2f25;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 48.948963,85.476678 419.119997,0 0,10.5 -6.0025,3.1875 6.0025,2.625002 0,14.825 -7.5025,4.3125 7.5025,3.9375 0,16.625 -419.119997,0 0,-11.125 9.0025,-3.5 -9.0025,-4 0,-12.8875 7.5025,-3.875 -7.5025,-2.875 0,-17.750002"
+       inkscape:export-filename="/home/enis/local/feedthebird/Assets/GUI/path17612.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path16950"
+       style="fill:#764a33;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 463.56771,89.976678 0,5.625 -6.0025,3.75 6.0025,3.000002 0,13.5125 -7.5025,5.25 7.5025,4.3125 0,11.5625 -410.117497,0 0,-6.0375 9.002495,-4.4 -9.002495,-4.125 0,-12.475 7.502495,-3.5625 -7.502495,-3.85 0,-12.562502 410.117497,0"
+       inkscape:export-filename="/home/enis/local/feedthebird/Assets/GUI/path17612.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path17080"
+       style="fill:#4d2f25;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 468.06896,193.00168 -419.119997,0 0,-10.5 6.0025,-3.1875 -6.0025,-2.625 0,-14.8125 7.5025,-4.3125 -7.5025,-3.9375 0,-16.6375 419.119997,0 0,11.125 -9.0025,3.5 9.0025,4.0125 0,12.875 -7.5025,3.875 7.5025,2.875 0,17.75"
+       inkscape:export-filename="/home/enis/local/feedthebird/Assets/GUI/path17612.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path17082"
+       style="fill:#764a33;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 53.451463,188.50168 0,-5.625 6.00125,-3.75 -6.00125,-3 0,-13.5 7.501245,-5.25 -7.501245,-4.3125 0,-11.575 410.116247,0 0,6.0375 -9.0025,4.4 9.0025,4.1375 0,12.475 -7.50125,3.5625 7.50125,3.8375 0,12.5625 -410.116247,0"
+       inkscape:export-filename="/home/enis/local/feedthebird/Assets/GUI/path17612.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path17212"
+       style="fill:#4d2f25;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 468.06896,243.52668 -419.119997,0 0,-10.5125 6.0025,-3.1875 -6.0025,-2.625 0,-14.8125 7.5025,-4.3125 -7.5025,-3.9375 0,-16.6375 419.119997,0 0,11.125 -9.0025,3.5125 9.0025,4 0,12.875 -7.5025,3.875 7.5025,2.875 0,17.7625"
+       inkscape:export-filename="/home/enis/local/feedthebird/Assets/GUI/path17612.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path17214"
+       style="fill:#764a33;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 53.451463,239.01418 0,-5.625 6.00125,-3.75 -6.00125,-3 0,-13.5 7.501245,-5.25 -7.501245,-4.3125 0,-11.575 410.116247,0 0,6.0375 -9.0025,4.4125 9.0025,4.125 0,12.475 -7.50125,3.5625 7.50125,3.8375 0,12.5625 -410.116247,0"
+       inkscape:export-filename="/home/enis/local/feedthebird/Assets/GUI/path17612.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path17344"
+       style="fill:#4d2f25;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 48.948963,239.01418 419.119997,0 0,10.5125 -6.0025,3.1875 6.0025,2.625 0,14.8125 -7.5025,4.3125 7.5025,3.9375 0,16.635 -419.119997,0 0,-11.1275 9.0025,-3.495 -9.0025,-4.0125 0,-12.875 7.5025,-3.875 -7.5025,-2.875 0,-17.7625"
+       inkscape:export-filename="/home/enis/local/feedthebird/Assets/GUI/path17612.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path17346"
+       style="fill:#764a33;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 463.56771,243.52668 0,5.625 -6.0025,3.75 6.0025,3 0,13.5 -7.5025,5.25 7.5025,4.3125 0,11.57125 -410.117497,0 0,-6.03375 9.002495,-4.4125 -9.002495,-4.125 0,-12.475 7.502495,-3.5625 -7.502495,-3.8375 0,-12.5625 410.117497,0"
+       inkscape:export-filename="/home/enis/local/feedthebird/Assets/GUI/path17612.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path17476"
+       style="fill:#4d2f25;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 468.06896,346.55043 -419.119997,0 0,-10.5025 6.0025,-3.18875 -6.0025,-2.62625 0,-14.81625 7.5025,-4.3125 -7.5025,-3.93875 0,-16.63 419.119997,0 0,11.1275 -9.0025,3.50125 9.0025,4.00125 0,12.87875 -7.5025,3.875 7.5025,2.8775 0,17.75375"
+       inkscape:export-filename="/home/enis/local/feedthebird/Assets/GUI/path17612.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path17478"
+       style="fill:#764a33;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 53.451463,342.05043 0,-5.6275 6.00125,-3.75125 -6.00125,-3 0,-13.50375 7.501245,-5.25125 -7.501245,-4.31375 0,-11.56625 410.116247,0 0,6.0325 -9.0025,4.4075 9.0025,4.12625 0,12.47375 -7.50125,3.5625 7.50125,3.845 0,12.56625 -410.116247,0"
+       inkscape:export-filename="/home/enis/local/feedthebird/Assets/GUI/path17612.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path17480"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 61.577708,302.28793 c 0,0 0.9675,-0.0525 2.66,-0.145 1.6925,-0.06 4.11,-0.2075 7.01125,-0.275 2.90125,-0.0663 6.28625,-0.19125 9.9125,-0.23875 3.62625,-0.0625 7.495,-0.075 11.3625,-0.09 3.86875,0.015 7.737502,0.025 11.363752,0.0888 3.62625,0.045 7.01125,0.1725 9.9125,0.23875 2.90125,0.0663 5.31875,0.215 7.01125,0.27625 1.6925,0.0925 2.65875,0.145 2.65875,0.145 0,0 -0.96625,0.0537 -2.65875,0.14625 -1.6925,0.0612 -4.11,0.21 -7.01125,0.27625 -2.90125,0.0663 -6.28625,0.19375 -9.9125,0.23875 -3.62625,0.0637 -7.495002,0.0737 -11.363752,0.0888 -3.8675,-0.0163 -7.73625,-0.0275 -11.3625,-0.09 -3.62625,-0.0475 -7.01125,-0.1725 -9.9125,-0.23875 -2.90125,-0.0688 -5.31875,-0.215 -7.01125,-0.275 -1.6925,-0.0925 -2.66,-0.14625 -2.66,-0.14625"
+       inkscape:export-filename="/home/enis/local/feedthebird/Assets/GUI/path17612.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path17488"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 57.545213,321.23168 c 0,0 1.09625,-0.12375 2.739995,-0.22875 1.645,-0.10125 3.83625,-0.1675 6.02875,-0.17125 2.1925,0.002 4.38375,0.0687 6.0275,0.17 1.645,0.10625 2.74,0.23 2.74,0.23 0,0 -1.095,0.12375 -2.74,0.22875 -1.64375,0.10125 -3.835,0.1675 -6.0275,0.17 -2.1925,-0.002 -4.38375,-0.07 -6.02875,-0.17125 -1.643745,-0.105 -2.739995,-0.2275 -2.739995,-0.2275"
+       inkscape:export-filename="/home/enis/local/feedthebird/Assets/GUI/path17612.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path17496"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 63.172708,336.42293 c 0,0 0.625,-0.0425 1.72,-0.11625 1.095,-0.0487 2.66,-0.1675 4.53625,-0.2225 1.8775,-0.0525 4.06625,-0.1525 6.4125,-0.19125 2.34625,-0.0512 4.85,-0.06 7.3525,-0.0725 2.5025,0.0125 5.005,0.02 7.35125,0.0713 2.34625,0.0362 4.53625,0.13875 6.4125,0.19125 1.8775,0.0538 3.441252,0.17375 4.536252,0.2225 1.095,0.075 1.72125,0.1175 1.72125,0.1175 0,0 -0.62625,0.0425 -1.72125,0.1175 -1.095,0.0487 -2.658752,0.16875 -4.536252,0.2225 -1.87625,0.0525 -4.06625,0.15625 -6.4125,0.19125 -2.34625,0.0512 -4.84875,0.06 -7.35125,0.0725 -2.5025,-0.0138 -5.00625,-0.0225 -7.3525,-0.0738 -2.34625,-0.0375 -4.535,-0.13875 -6.4125,-0.19125 -1.87625,-0.055 -3.44125,-0.1725 -4.53625,-0.22125 -1.095,-0.075 -1.72,-0.1175 -1.72,-0.1175"
+       inkscape:export-filename="/home/enis/local/feedthebird/Assets/GUI/path17612.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path17608"
+       style="fill:#2e2d2c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 455.48521,337.42168 -77.3175,0 2.12625,-10.50375 -7.25375,10.50375 -134.2875,0 -7.50125,-7.5025 -0.5,7.5025 -168.717502,0 0,-11.75375 10.50375,-6.75125 -10.50375,0.5 0,-104.0275 10.50375,-5.75 -10.50375,-4.5 0,-125.537502 13.50375,-5.6875 -13.50375,-4.0625 0,-23.8875 283.000002,0 -5.0025,9.0125 19.50625,-9.0125 95.9475,0 0,58.887502 -9.00375,5.25 9.00375,1.0125 0,84.0125 -13.50375,5.5125 13.50375,-0.5125 0,104.035 -10.50375,1.00125 10.50375,4.31375 0,27.945"
+       inkscape:export-filename="/home/enis/local/feedthebird/Assets/GUI/path17612.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path17610"
+       style="fill:#f5d766;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 453.98521,335.92168 -77.3175,0 2.125,-10.50375 -7.2525,10.50375 -134.2875,0 -7.5025,-7.5025 -0.5,7.5025 -168.716252,0 0,-11.75375 10.5025,-6.7525 -10.5025,0.50125 0,-104.0275 10.5025,-5.75 -10.5025,-4.5 0,-125.537502 13.50375,-5.6875 -13.50375,-4.0625 0,-23.8875 283.000002,0 -5.0025,9 19.505,-9 95.94875,0 0,58.887502 -9.00375,5.25 9.00375,1.0125 0,84.0125 -13.505,5.5125 13.505,-0.5125 0,104.03375 -10.50375,1.0025 10.50375,4.3125 0,27.94625"
+       inkscape:export-filename="/home/enis/local/feedthebird/Assets/GUI/path17612.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path17612"
+       style="fill:#fdf1a8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 382.17146,331.42043 1.03375,-5.11 -8.11625,-3.45 -5.91,8.56 -130.06125,0 -13.2,-13.19875 -0.8775,13.19875 -160.005002,0 0,-4.79625 22.565,-14.50625 -22.565,1.0775 0,-96.64375 16.27625,-8.9125 -16.27625,-6.975 0,-119.575002 22.27375,-9.3875 -22.27375,-6.7 0,-16.0375 270.848752,0 -7.98375,14.3625 31.12625,-14.3625 90.45625,0 0,51.800002 -18.525,10.8125 18.525,2.0625 0,76.9625 -10.7,4.3625 1.865,8.6625 8.835,-0.325 0,95.26625 -6.42875,0.61375 -1.2825,8.645 7.71125,3.1675 0,20.42625 -67.31125,0"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path16"
+       style="fill:#4d2f25;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 418.6637,408.34977 -367.010458,0 0,-5.875 5.990955,-1.18257 -5.990955,-2.07993 0,-8.3 9.49621,-1.50511 -9.49621,-3.10739 0,-9.3125 367.010458,0 0,6.225 -6.97631,1.9625 6.97631,2.2375 0,7.2125 -4.04489,2.175 4.04489,1.6125 0,9.9375"
+       sodipodi:nodetypes="ccccccccccccccccc"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path18"
+       style="fill:#764a33;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 57.008088,406.12723 0,-3.15 5.700528,-1.79753 -5.700528,-1.97747 0,-7.5625 8.058132,-2.63503 -8.058132,-2.72747 0,-6.475 357.451932,-0.60492 0,3.3875 -4.96794,2.76496 4.96794,2.01004 0,6.9875 -3.47107,1.9875 3.47107,2.15 0,7.0375 -357.451932,0.60492"
+       sodipodi:nodetypes="ccccccccccccccccc"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path20"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 71.49985,383.56227 c 0,0 1.519125,-0.025 4.181945,-0.075 2.659307,-0.0375 6.45883,-0.125 11.019657,-0.1625 4.557317,-0.0375 9.879447,-0.1 15.576958,-0.125 5.70104,-0.0375 11.78099,-0.05 17.85741,-0.05 6.07993,0 12.15985,0.0125 17.86089,0.05 5.69753,0.025 11.01967,0.0875 15.58049,0.125 4.55732,0.0375 8.35683,0.125 11.01614,0.1625 2.65932,0.05 4.18192,0.075 4.18192,0.075 0,0 -1.5226,0.0375 -4.18192,0.0875 -2.65931,0.025 -6.45882,0.1125 -11.01614,0.15 -4.56082,0.0375 -9.88296,0.1125 -15.58049,0.1375 -5.70104,0.0375 -11.78096,0.0375 -17.86089,0.05 -6.07642,-0.0125 -12.15637,-0.0125 -17.85741,-0.05 -5.697511,-0.025 -11.019641,-0.1 -15.576958,-0.1375 -4.560827,-0.0375 -8.36035,-0.125 -11.019657,-0.15 -2.66282,-0.05 -4.181945,-0.0875 -4.181945,-0.0875"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path22"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 127.5068,387.87477 c 0,0 4.09073,-0.1125 10.22327,-0.2 3.0698,-0.025 6.64829,-0.0875 10.48289,-0.1 3.83459,-0.0125 7.92181,-0.0375 12.01253,-0.05 4.0907,0.0125 8.18141,0.0375 12.01601,0.05 3.8311,0.0125 7.41309,0.075 10.47937,0.1 6.13608,0.0875 10.22327,0.2 10.22327,0.2 0,0 -4.08719,0.1125 -10.22327,0.1875 -3.06628,0.025 -6.64827,0.1 -10.47937,0.1125 -3.8346,0.0125 -7.92531,0.025 -12.01601,0.0375 -4.09072,-0.0125 -8.17794,-0.025 -12.01253,-0.0375 -3.8346,-0.0125 -7.41309,-0.0875 -10.48289,-0.1125 -6.13254,-0.0875 -10.22327,-0.1875 -10.22327,-0.1875"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path24"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 99.355987,391.54977 c 0,0 2.599663,-0.0875 6.493913,-0.1625 1.94712,-0.0125 4.22052,-0.0625 6.6553,-0.075 2.43829,-0.0125 5.03445,-0.025 7.63062,-0.0375 2.59965,0.0125 5.19583,0.025 7.63412,0.0375 2.43479,0 4.70467,0.0625 6.65529,0.075 3.89424,0.075 6.49392,0.1625 6.49392,0.1625 0,0 -2.59968,0.0875 -6.49392,0.15 -1.95062,0.025 -4.2205,0.075 -6.65529,0.0875 -2.43829,0.0125 -5.03447,0.025 -7.63412,0.0375 -2.59617,-0.0125 -5.19233,-0.025 -7.63062,-0.0375 -2.43478,-0.0125 -4.70818,-0.0625 -6.6553,-0.0875 -3.89425,-0.0625 -6.493913,-0.15 -6.493913,-0.15"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path26"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 130.60116,395.11227 c 0,0 2.59966,-0.0875 6.4939,-0.15 1.95063,-0.025 4.22052,-0.075 6.6588,-0.0875 2.43479,-0.0125 5.03096,-0.025 7.63062,-0.0375 2.59617,0.0125 5.19234,0.025 7.62712,0.0375 2.43828,0.0125 4.71168,0.0625 6.6588,0.0875 3.89776,0.0625 6.4939,0.15 6.4939,0.15 0,0 -2.59614,0.1 -6.4939,0.1625 -1.94712,0.025 -4.22052,0.075 -6.6588,0.075 -2.43478,0.0125 -5.03095,0.025 -7.62712,0.0375 -2.59965,-0.0125 -5.19583,-0.025 -7.63062,-0.0375 -2.43828,0 -4.70817,-0.05 -6.6588,-0.075 -3.89424,-0.075 -6.4939,-0.1625 -6.4939,-0.1625"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path28"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 56.105459,394.17477 c 0,0 0.61375,-0.075 1.53375,-0.125 0.92125,-0.05 2.14875,-0.1 3.37625,-0.1 1.2275,0 2.455,0.0375 3.375,0.1 0.92125,0.05 1.535,0.125 1.535,0.125 0,0 -0.61375,0.075 -1.535,0.125 -0.92,0.05 -2.1475,0.1 -3.375,0.1 -1.2275,0 -2.455,-0.05 -3.37625,-0.1 -0.92,-0.05 -1.53375,-0.125 -1.53375,-0.125"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path30"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 85.575258,385.66227 c 0,0 1.722596,-0.0625 4.308229,-0.125 2.582134,-0.05 6.027315,-0.1 9.4725,-0.1 3.445183,0 6.890353,0.05 9.475983,0.1 2.58214,0.05 4.30474,0.125 4.30474,0.125 0,0 -1.7226,0.075 -4.30474,0.125 -2.58563,0.0625 -6.0308,0.1 -9.475983,0.1 -3.445185,0 -6.890366,-0.0375 -9.4725,-0.1 -2.585633,-0.05 -4.308229,-0.125 -4.308229,-0.125"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path32"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 78.944532,389.23727 c 0,0 1.722577,-0.075 4.30471,-0.125 2.585643,-0.05 6.030815,-0.1 9.476006,-0.1 3.445181,0 6.890347,0.05 9.472482,0.1 2.58564,0.05 4.30823,0.125 4.30823,0.125 0,0 -1.72259,0.075 -4.30823,0.125 -2.582135,0.05 -6.027301,0.1 -9.472482,0.1 -3.445191,0 -6.890363,-0.05 -9.476006,-0.1 -2.582133,-0.05 -4.30471,-0.125 -4.30471,-0.125"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path34"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 81.891509,400.04977 c 0,0 1.722605,-0.0625 4.304738,-0.125 2.585634,-0.05 6.030806,-0.1 9.475996,-0.1 3.445176,0 6.890357,0.05 9.472477,0.1 2.58565,0.0625 4.30824,0.125 4.30824,0.125 0,0 -1.72259,0.075 -4.30824,0.125 -2.58212,0.0625 -6.027301,0.1 -9.472477,0.1 -3.44519,0 -6.890362,-0.0375 -9.475996,-0.1 -2.582133,-0.05 -4.304738,-0.125 -4.304738,-0.125"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path36"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 74.004807,402.67477 c 0,0 3.936325,-0.1 9.833836,-0.1875 2.950506,-0.025 6.392168,-0.0875 10.079436,-0.1 3.687254,-0.0125 7.620091,-0.025 11.552921,-0.05 3.93635,0.025 7.86918,0.0375 11.55643,0.05 3.68724,0.0125 7.12893,0.075 10.07944,0.1 5.89748,0.0875 9.83384,0.1875 9.83384,0.1875 0,0 -3.93636,0.1125 -9.83384,0.2 -2.95051,0.025 -6.3922,0.0875 -10.07944,0.1 -3.68725,0.0125 -7.62008,0.025 -11.55643,0.0375 -3.93283,-0.0125 -7.865667,-0.025 -11.552921,-0.0375 -3.687268,-0.0125 -7.12893,-0.075 -10.079436,-0.1 -5.897511,-0.0875 -9.833836,-0.2 -9.833836,-0.2"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path38"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 97.293084,397.94977 c 0,0 3.932836,-0.1 9.833846,-0.1875 2.95049,-0.025 6.39216,-0.0875 10.07943,-0.1 3.68725,-0.0125 7.62008,-0.0375 11.55292,-0.05 3.93284,0.0125 7.86568,0.0375 11.55292,0.05 3.68725,0.0125 7.13244,0.075 10.07943,0.1 5.901,0.0875 9.83386,0.1875 9.83386,0.1875 0,0 -3.93286,0.1125 -9.83386,0.1875 -2.94699,0.0375 -6.39218,0.1 -10.07943,0.1125 -3.68724,0.0125 -7.62008,0.025 -11.55292,0.0375 -3.93284,-0.0125 -7.86567,-0.025 -11.55292,-0.0375 -3.68727,-0.0125 -7.12894,-0.075 -10.07943,-0.1125 -5.90101,-0.075 -9.833846,-0.1875 -9.833846,-0.1875"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path40"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 414.74308,381.67477 c 0,0 -0.61375,0.075 -1.53375,0.125 -0.92125,0.05 -2.14875,0.1 -3.37625,0.1 -1.2275,0 -2.455,-0.05 -3.375,-0.1 -0.92125,-0.05 -1.535,-0.125 -1.535,-0.125 0,0 0.61375,-0.075 1.535,-0.125 0.92,-0.05 2.1475,-0.1 3.375,-0.1 1.2275,0 2.455,0.05 3.37625,0.1 0.92,0.05 1.53375,0.125 1.53375,0.125"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path42"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 175.18498,404.24977 c 0,0 -1.72258,0.075 -4.30471,0.125 -2.58563,0.0625 -6.03082,0.1 -9.47599,0.1 -3.44518,0 -6.89037,-0.0375 -9.47248,-0.1 -2.58564,-0.05 -4.30825,-0.125 -4.30825,-0.125 0,0 1.72261,-0.0625 4.30825,-0.125 2.58211,-0.05 6.0273,-0.1 9.47248,-0.0875 3.44517,-0.0125 6.89036,0.0375 9.47599,0.0875 2.58213,0.0625 4.30471,0.125 4.30471,0.125"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path44"
+       style="fill:#4d2f25;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 51.653242,405.27477 367.010458,0 0,5.875 -3.69568,1.18258 3.69568,2.07992 0,8.28763 -8.34855,2.12228 8.34855,2.50272 0,9.312 -367.010458,0 0,-6.23738 10.132347,-1.64716 -10.132347,-2.55296 0,-7.21238 6.627102,-1.86016 -6.627102,-1.91459 0,-9.9375"
+       sodipodi:nodetypes="ccccccccccccccccc"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path46"
+       style="fill:#764a33;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 411.58739,407.78727 0,3.15 -4.8398,2.1 4.8398,1.6875 0,7.5625 -7.20091,2.9375 7.20091,2.41263 0,6.47462 -352.861355,0 0,-3.375 8.410882,-2.76496 -8.410882,-2.01004 0,-6.98725 6.053277,-2.30246 -6.053277,-1.84754 0,-7.0375 352.861355,0"
+       sodipodi:nodetypes="ccccccccccccccccc"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path48"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 66.489965,411.26227 c 0,0 3.157486,-0.1 7.897253,-0.175 2.371634,-0.025 5.136177,-0.075 8.097221,-0.1 2.961016,-0.025 6.12203,-0.025 9.283016,-0.0375 3.157505,0.0125 6.318505,0.0125 9.279545,0.0375 2.96102,0.025 5.72559,0.075 8.09723,0.1 4.73974,0.075 7.89724,0.175 7.89724,0.175 0,0 -3.1575,0.0875 -7.89724,0.1625 -2.37164,0.025 -5.13621,0.075 -8.09723,0.1 -2.96104,0.025 -6.12204,0.025 -9.279545,0.0375 -3.160986,-0.0125 -6.322,-0.0125 -9.283016,-0.0375 -2.961044,-0.025 -5.725587,-0.075 -8.097221,-0.1 -4.739767,-0.075 -7.897253,-0.1625 -7.897253,-0.1625"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path50"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 75.77652,415.56227 c 0,0 4.087188,-0.1125 10.223267,-0.1875 3.06627,-0.0375 6.644746,-0.1 10.479367,-0.1125 3.834606,-0.0125 7.925316,-0.025 12.016016,-0.05 4.08721,0.025 8.17793,0.0375 12.01252,0.05 3.83459,0.0125 7.4131,0.075 10.47939,0.1 6.13605,0.0875 10.22676,0.2 10.22676,0.2 0,0 -4.09071,0.1125 -10.22676,0.2 -3.06629,0.025 -6.6448,0.0875 -10.47939,0.0998 -3.83459,0.0126 -7.92531,0.0249 -12.01252,0.0503 -4.0907,-0.0254 -8.18141,-0.0376 -12.016016,-0.0503 -3.834621,-0.0125 -7.413097,-0.0747 -10.479367,-0.11225 -6.136079,-0.075 -10.223267,-0.1875 -10.223267,-0.1875"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path52"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 78.870865,422.81215 c 0,0 2.596144,-0.0874 6.493903,-0.16263 1.947125,-0.0125 4.220523,-0.0625 6.655304,-0.0751 2.434781,-0.0125 5.034444,-0.0249 7.63062,-0.0371 2.599658,0.0125 5.195828,0.0249 7.630618,0.0371 2.43475,0 4.70817,0.063 6.65527,0.0751 3.89776,0.0753 6.49394,0.16263 6.49394,0.16263 0,0 -2.59618,0.0874 -6.49394,0.14987 -1.9471,0.025 -4.22052,0.0753 -6.65527,0.0875 -2.43479,0.0126 -5.03096,0.0249 -7.630618,0.0375 -2.596176,-0.0126 -5.195839,-0.0249 -7.63062,-0.0375 -2.434781,-0.0125 -4.708179,-0.0625 -6.655304,-0.0875 -3.897759,-0.0625 -6.493903,-0.14987 -6.493903,-0.14987"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path54"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 56.577959,419.7619 c 0,0 0.61375,-0.0747 1.53375,-0.125 0.92125,-0.0499 2.14875,-0.0996 3.37625,-0.0996 1.2275,0 2.455,0.0498 3.375,0.0996 0.92125,0.0503 1.535,0.125 1.535,0.125 0,0 -0.61375,0.0751 -1.535,0.1255 -0.92,0.0498 -2.1475,0.0996 -3.375,0.0996 -1.2275,0 -2.455,-0.0499 -3.37625,-0.0996 -0.92,-0.0504 -1.53375,-0.1255 -1.53375,-0.1255"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path56"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 70.615763,425.64952 c 0,0 2.368114,-0.0874 5.91856,-0.14987 1.775191,-0.0249 3.848629,-0.0751 6.065871,-0.0874 2.22079,0 4.588905,-0.0128 6.953519,-0.0254 2.368124,0.0126 4.736248,0.0254 6.957019,0.0254 2.217266,0.0125 4.290688,0.0625 6.065908,0.0874 3.55041,0.0625 5.91853,0.14987 5.91853,0.14987 0,0 -2.36812,0.0753 -5.91853,0.13775 -1.77522,0.0249 -3.848642,0.0747 -6.065908,0.0874 -2.220771,0.0125 -4.588895,0.0249 -6.957019,0.0376 -2.364614,-0.0128 -4.732729,-0.0254 -6.953519,-0.0376 -2.217242,-0.0126 -4.29068,-0.0625 -6.065871,-0.0874 -3.550446,-0.0625 -5.91856,-0.13775 -5.91856,-0.13775"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path58"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 179.08974,427.74965 c 0,0 -4.08719,0.10012 -10.22325,0.1875 -3.06629,0.0249 -6.64476,0.0874 -10.47938,0.10012 -3.8346,0.0249 -7.92531,0.0371 -12.01601,0.0497 -4.09072,-0.0126 -8.17792,-0.0249 -12.01253,-0.0375 -3.83459,-0.0125 -7.41309,-0.0875 -10.48287,-0.11237 -6.13256,-0.0751 -10.22327,-0.1875 -10.22327,-0.1875 0,0 4.09071,-0.11225 10.22327,-0.20013 3.06978,-0.025 6.64828,-0.0875 10.48287,-0.10012 3.83461,-0.0125 7.92181,-0.0371 12.01253,-0.0499 4.0907,0.0128 8.18141,0.0376 12.01601,0.0499 3.83462,0.0126 7.41309,0.0751 10.47938,0.10012 6.13606,0.0879 10.22325,0.20013 10.22325,0.20013"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path60"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 195.44908,422.3874 c 0,0 -1.5647,0.0874 -3.91177,0.16212 -2.35059,0.0625 -5.48352,0.11275 -8.61294,0.11275 -3.13295,0 -6.26588,-0.0503 -8.61296,-0.11275 -2.35058,-0.0747 -3.91528,-0.16212 -3.91528,-0.16212 0,0 1.5647,-0.0879 3.91528,-0.15038 2.34708,-0.0747 5.48001,-0.125 8.61296,-0.125 3.12942,0 6.26235,0.0503 8.61294,0.125 2.34707,0.0625 3.91177,0.15038 3.91177,0.15038"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path62"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 167.15442,420.36202 c 0,0 -2.59966,0.0879 -6.4939,0.15038 -1.95063,0.0249 -4.22405,0.0746 -6.65884,0.0874 -2.43475,0.0125 -5.03092,0.0249 -7.63058,0.0376 -2.59618,-0.0127 -5.19586,-0.0254 -7.63061,-0.0376 -2.43479,-0.0127 -4.70818,-0.0625 -6.65531,-0.0874 -3.89775,-0.0625 -6.49393,-0.15038 -6.49393,-0.15038 0,0 2.59618,-0.0875 6.49393,-0.16212 1.94713,-0.0127 4.22052,-0.0752 6.65531,-0.0752 2.43475,-0.0126 5.03443,-0.0249 7.63061,-0.0376 2.59966,0.0128 5.19583,0.025 7.63058,0.0376 2.43479,0 4.70821,0.0625 6.65884,0.0752 3.89423,0.0746 6.4939,0.16212 6.4939,0.16212"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path64"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 170.10142,412.83727 c 0,0 -1.72259,0.0625 -4.30823,0.125 -2.58213,0.05 -6.02731,0.1 -9.47248,0.0875 -3.44519,0.0125 -6.89036,-0.0375 -9.476,-0.0875 -2.58213,-0.0625 -4.30472,-0.125 -4.30472,-0.125 0,0 1.72259,-0.075 4.30472,-0.1375 2.58564,-0.05 6.03081,-0.1 9.476,-0.0875 3.44517,-0.0125 6.89035,0.0375 9.47248,0.1 2.58564,0.05 4.30823,0.125 4.30823,0.125"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path66"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 154.99455,409.36227 c 0,0 -1.72257,0.075 -4.30822,0.125 -2.58213,0.0625 -6.02731,0.1 -9.47249,0.1 -3.44516,0 -6.89034,-0.0375 -9.476,-0.1 -2.5821,-0.05 -4.30471,-0.125 -4.30471,-0.125 0,0 1.72261,-0.0625 4.30471,-0.125 2.58566,-0.05 6.03084,-0.1 9.476,-0.1 3.44518,0 6.89036,0.05 9.47249,0.1 2.58565,0.0625 4.30822,0.125 4.30822,0.125"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path68"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 206.8902,431.9494 c 0,0 -3.70471,0.063 -9.26556,0.1255 -5.55331,0.0498 -12.96272,0.0996 -20.37216,0.0996 -7.40945,0 -14.81887,-0.0499 -20.37972,-0.0996 -5.5533,-0.0625 -9.25799,-0.1255 -9.25799,-0.1255 0,0 3.70469,-0.0747 9.25799,-0.125 5.56085,-0.062 12.97027,-0.0996 20.37972,-0.0996 7.40944,0 14.81885,0.0376 20.37216,0.0996 5.56085,0.0503 9.26556,0.125 9.26556,0.125"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path70"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 200.16779,417.66227 c 0,0 -3.19608,0.11225 -7.99198,0.1875 -2.39617,0.0371 -5.19582,0.0874 -8.19194,0.11225 -2.99611,0.025 -6.1922,0.025 -9.38828,0.0376 -3.19609,0 -6.39217,-0.0126 -9.38829,-0.0376 -2.99612,-0.0249 -5.79576,-0.0751 -8.19195,-0.11225 -4.79236,-0.0753 -7.99197,-0.1875 -7.99197,-0.1875 0,0 3.19961,-0.11275 7.99197,-0.1875 2.39619,-0.0376 5.19583,-0.0874 8.19195,-0.11275 2.99612,-0.025 6.1922,-0.025 9.38829,-0.0371 3.19608,0.0125 6.39217,0.0125 9.38828,0.0371 2.99612,0.0254 5.79577,0.0751 8.19194,0.11275 4.7959,0.0747 7.99198,0.1875 7.99198,0.1875"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path72"
+       style="fill:#252323;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 416.01433,428.2624 4.80127,0 0,-42.78763 -4.80127,0 0,42.78763 z"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path74"
+       style="fill:#918f8e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 417.43308,428.2624 1.96337,0 0,-42.78763 -1.96337,0 0,42.78763 z"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path76"
+       style="fill:#252323;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 50.389209,428.2624 4.80078,0 0,-42.78763 -4.80078,0 0,42.78763 z"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path78"
+       style="fill:#918f8e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 51.806709,428.2624 1.96485,0 0,-42.78763 -1.96485,0 0,42.78763 z"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path80"
+       style="fill:#252323;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 50.944139,380.56227 360.461761,0 0,-4.8125 -360.461761,0 0,4.8125 z"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path82"
+       style="fill:#918f8e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 50.944139,379.13727 360.461761,0 0,-1.9624 -360.461761,0 0,1.9624 z"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path84"
+       style="fill:#252323;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 54.595581,437.98702 354.984599,0 0,-4.8125 -354.984599,0 0,4.8125 z"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path86"
+       style="fill:#918f8e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 54.595581,436.56215 354.984599,0 0,-1.9624 -354.984599,0 0,1.9624 z"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path88"
+       style="fill:#252323;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 61.019209,384.93727 4.0175,0 c 0.98125,0 1.77625,-0.8 1.77625,-1.775 l 0,-6.075 c 0,-0.975 -0.795,-1.775 -1.77625,-1.775 l -13.63625,0 c -0.98125,0 -1.77613,0.8 -1.77613,1.775 l 0,13.6375 c 0,0.9875 0.79488,1.775 1.77613,1.775 l 6.06625,0 c 0.98,0 1.77625,-0.7875 1.77625,-1.775 l 0,-4.0125 c 0,-0.9875 0.795,-1.775 1.77625,-1.775"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path90"
+       style="fill:#918f8e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 51.400459,390.82477 -0.0962,-0.1 0,-13.6375 0.0962,-0.0875 13.63625,0 0.0962,0.0875 0,6.075 -0.0962,0.0875 -4.0175,0 c -1.90625,0 -3.45625,1.55 -3.45625,3.4625 l 0,4.0125 -0.0975,0.1 -6.065,0"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path92"
+       style="fill:#b9b8b7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 63.824209,379.91227 c 0,0.975 -0.7875,1.7625 -1.75875,1.7625 -0.97125,0 -1.75875,-0.7875 -1.75875,-1.7625 0,-0.9625 0.7875,-1.75 1.75875,-1.75 0.97125,0 1.75875,0.7875 1.75875,1.75"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path94"
+       style="fill:#2e2d2d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 62.065459,378.57477 c -0.7375,0 -1.33875,0.6 -1.33875,1.3375 0,0.7375 0.60125,1.3375 1.33875,1.3375 0.7375,0 1.33875,-0.6 1.33875,-1.3375 0,-0.7375 -0.60125,-1.3375 -1.33875,-1.3375 z m 0,3.525 c -1.20125,0 -2.17875,-0.9875 -2.17875,-2.1875 0,-1.2 0.9775,-2.175 2.17875,-2.175 1.20125,0 2.17875,0.975 2.17875,2.175 0,1.2 -0.9775,2.1875 -2.17875,2.1875"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path96"
+       style="fill:#b9b8b7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 56.000459,387.87477 c 0,0.9625 -0.7875,1.75 -1.75875,1.75 -0.97125,0 -1.76,-0.7875 -1.76,-1.75 0,-0.975 0.78875,-1.7625 1.76,-1.7625 0.97125,0 1.75875,0.7875 1.75875,1.7625"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path98"
+       style="fill:#2e2d2d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 54.241709,386.53727 c -0.73875,0 -1.33875,0.6 -1.33875,1.3375 0,0.7375 0.6,1.3375 1.33875,1.3375 0.7375,0 1.33875,-0.6 1.33875,-1.3375 0,-0.7375 -0.60125,-1.3375 -1.33875,-1.3375 z m 0,3.5125 c -1.20125,0 -2.18,-0.975 -2.18,-2.175 0,-1.2 0.97875,-2.1875 2.18,-2.1875 1.20125,0 2.17875,0.9875 2.17875,2.1875 0,1.2 -0.9775,2.175 -2.17875,2.175"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path100"
+       style="fill:#252323;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 411.57933,386.71227 0,4.0125 c 0,0.9875 0.795,1.775 1.77625,1.775 l 6.06625,0 c 0.98125,0 1.77625,-0.7875 1.77625,-1.775 l 0,-13.6375 c 0,-0.975 -0.795,-1.775 -1.77625,-1.775 l -13.63625,0 c -0.98125,0 -1.77625,0.8 -1.77625,1.775 l 0,6.075 c 0,0.975 0.795,1.775 1.77625,1.775 l 4.0175,0 c 0.98125,0 1.77625,0.7875 1.77625,1.775"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path102"
+       style="fill:#918f8e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 405.68933,377.08727 0.0962,-0.0875 13.63625,0 0.0962,0.0875 0,13.6375 -0.0962,0.1 -6.06625,0 -0.0962,-0.1 0,-4.0125 c 0,-1.9125 -1.55,-3.4625 -3.45625,-3.4625 l -4.0175,0 -0.0962,-0.0875 0,-6.075"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path104"
+       style="fill:#b9b8b7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 416.59808,389.51227 c -0.97125,0 -1.75875,-0.7875 -1.75875,-1.75 0,-0.975 0.7875,-1.7625 1.75875,-1.7625 0.97125,0 1.75875,0.7875 1.75875,1.7625 0,0.9625 -0.7875,1.75 -1.75875,1.75"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path106"
+       style="fill:#2e2d2d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 416.59808,386.42477 c -0.7375,0 -1.33875,0.6 -1.33875,1.3375 0,0.7375 0.60125,1.3375 1.33875,1.3375 0.73875,0 1.33875,-0.6 1.33875,-1.3375 0,-0.7375 -0.6,-1.3375 -1.33875,-1.3375 z m 0,3.5125 c -1.20125,0 -2.17875,-0.975 -2.17875,-2.175 0,-1.2125 0.9775,-2.1875 2.17875,-2.1875 1.20125,0 2.17875,0.975 2.17875,2.1875 0,1.2 -0.9775,2.175 -2.17875,2.175"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path108"
+       style="fill:#b9b8b7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 408.64308,381.68727 c -0.97125,0 -1.75875,-0.7875 -1.75875,-1.75 0,-0.975 0.7875,-1.7625 1.75875,-1.7625 0.97125,0 1.75875,0.7875 1.75875,1.7625 0,0.9625 -0.7875,1.75 -1.75875,1.75"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path110"
+       style="fill:#2e2d2d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 408.64308,378.59977 c -0.73875,0 -1.33875,0.6 -1.33875,1.3375 0,0.7375 0.6,1.3375 1.33875,1.3375 0.73875,0 1.33875,-0.6 1.33875,-1.3375 0,-0.7375 -0.6,-1.3375 -1.33875,-1.3375 z m 0,3.5125 c -1.20125,0 -2.17875,-0.975 -2.17875,-2.175 0,-1.2 0.9775,-2.1875 2.17875,-2.1875 1.20125,0 2.17875,0.9875 2.17875,2.1875 0,1.2 -0.9775,2.175 -2.17875,2.175"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path112"
+       style="fill:#252323;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 409.80308,428.8244 -4.0175,0 c -0.98125,0 -1.77625,0.78762 -1.77625,1.77537 l 0,6.0625 c 0,0.98725 0.795,1.77488 1.77625,1.77488 l 13.63625,0 c 0.98125,0 1.77625,-0.78763 1.77625,-1.77488 l 0,-13.63775 c 0,-0.975 -0.795,-1.77487 -1.77625,-1.77487 l -6.06625,0 c -0.98125,0 -1.77625,0.79987 -1.77625,1.77487 l 0,4.025 c 0,0.975 -0.795,1.77488 -1.77625,1.77488"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path114"
+       style="fill:#918f8e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 419.42183,422.93715 0.0962,0.0874 0,13.63775 -0.0962,0.10012 -13.63625,0 -0.0962,-0.10012 0,-6.0625 0.0962,-0.10013 4.0175,0 c 1.90625,0 3.45625,-1.54975 3.45625,-3.45012 l 0,-4.025 0.0962,-0.0874 6.06625,0"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path116"
+       style="fill:#b9b8b7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 406.99808,433.83702 c 0,-0.96237 0.7875,-1.75 1.75875,-1.75 0.97125,0 1.75875,0.78763 1.75875,1.75 0,0.97513 -0.7875,1.76275 -1.75875,1.76275 -0.97125,0 -1.75875,-0.78762 -1.75875,-1.76275"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path118"
+       style="fill:#2e2d2d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 408.75683,432.49965 c -0.73875,0 -1.33875,0.60012 -1.33875,1.33737 0,0.73788 0.6,1.3375 1.33875,1.3375 0.7375,0 1.33875,-0.59962 1.33875,-1.3375 0,-0.73725 -0.60125,-1.33737 -1.33875,-1.33737 z m 0,3.52487 c -1.20125,0 -2.17875,-0.98725 -2.17875,-2.1875 0,-1.19962 0.9775,-2.17475 2.17875,-2.17475 1.20125,0 2.17875,0.97513 2.17875,2.17475 0,1.20025 -0.9775,2.1875 -2.17875,2.1875"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path120"
+       style="fill:#b9b8b7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 414.82183,425.8869 c 0,-0.97463 0.7875,-1.76225 1.75875,-1.76225 0.97125,0 1.75875,0.78762 1.75875,1.76225 0,0.97512 -0.7875,1.76262 -1.75875,1.76262 -0.97125,0 -1.75875,-0.7875 -1.75875,-1.76262"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path122"
+       style="fill:#2e2d2d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 416.58058,424.54952 c -0.7375,0 -1.33875,0.6 -1.33875,1.33738 0,0.73775 0.60125,1.33787 1.33875,1.33787 0.73875,0 1.33875,-0.60012 1.33875,-1.33787 0,-0.73738 -0.6,-1.33738 -1.33875,-1.33738 z m 0,3.51263 c -1.20125,0 -2.17875,-0.97513 -2.17875,-2.17525 0,-1.19975 0.9775,-2.17488 2.17875,-2.17488 1.20125,0 2.18,0.97513 2.18,2.17488 0,1.20012 -0.97875,2.17525 -2.18,2.17525"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path124"
+       style="fill:#252323;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 59.242959,427.04952 0,-4.025 c 0,-0.975 -0.795,-1.77487 -1.77625,-1.77487 l -6.06625,0 c -0.98125,0 -1.77613,0.79987 -1.77613,1.77487 l 0,13.63775 c 0,0.98725 0.79488,1.77488 1.77613,1.77488 l 13.63625,0 c 0.98125,0 1.77625,-0.78763 1.77625,-1.77488 l 0,-6.0625 c 0,-0.98775 -0.795,-1.77537 -1.77625,-1.77537 l -4.0175,0 c -0.98125,0 -1.77625,-0.79988 -1.77625,-1.77488"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path126"
+       style="fill:#918f8e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 65.132959,436.66227 -0.0962,0.10013 -13.63625,0 -0.0962,-0.10013 0,-13.63775 0.0962,-0.0874 6.06625,0 0.0962,0.0874 0,4.025 c 0,1.90038 1.55,3.45013 3.45625,3.45013 l 4.0175,0 0.0962,0.10012 0,6.0625"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path128"
+       style="fill:#b9b8b7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 54.224209,424.23702 c 0.97125,0 1.75875,0.7875 1.75875,1.76263 0,0.97512 -0.7875,1.76225 -1.75875,1.76225 -0.97125,0 -1.75875,-0.78713 -1.75875,-1.76225 0,-0.97513 0.7875,-1.76263 1.75875,-1.76263"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path130"
+       style="fill:#2e2d2d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 54.224209,424.66227 c -0.73875,0 -1.33875,0.59963 -1.33875,1.33738 0,0.73737 0.6,1.33737 1.33875,1.33737 0.7375,0 1.33875,-0.6 1.33875,-1.33737 0,-0.73775 -0.60125,-1.33738 -1.33875,-1.33738 z m 0,3.51225 c -1.20125,0 -2.17875,-0.97462 -2.17875,-2.17487 0,-1.20013 0.9775,-2.17525 2.17875,-2.17525 1.20125,0 2.17875,0.97512 2.17875,2.17525 0,1.20025 -0.9775,2.17487 -2.17875,2.17487"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path132"
+       style="fill:#b9b8b7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 62.179209,432.06215 c 0.97125,0 1.75875,0.78762 1.75875,1.76225 0,0.97512 -0.7875,1.76262 -1.75875,1.76262 -0.97125,0 -1.75875,-0.7875 -1.75875,-1.76262 0,-0.97463 0.7875,-1.76225 1.75875,-1.76225"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path134"
+       style="fill:#2e2d2d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 62.179209,432.48702 c -0.73875,0 -1.33875,0.6 -1.33875,1.33738 0,0.73775 0.6,1.33787 1.33875,1.33787 0.73875,0 1.33875,-0.60012 1.33875,-1.33787 0,-0.73738 -0.6,-1.33738 -1.33875,-1.33738 z m 0,3.51263 c -1.20125,0 -2.17875,-0.97513 -2.17875,-2.17525 0,-1.19975 0.9775,-2.17488 2.17875,-2.17488 1.20125,0 2.17875,0.97513 2.17875,2.17488 0,1.20012 -0.9775,2.17525 -2.17875,2.17525"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path16-4"
+       style="fill:#4d2f25;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 173.21705,492.35079 -121.24284,0 0,-5.875 4.34919,-1.18257 -4.34919,-2.07993 0,-8.3 6.89386,-1.50511 -6.89386,-3.10739 0,-9.3125 121.24284,0 0,6.225 -5.06452,1.9625 5.06452,2.2375 0,7.2125 -2.93643,2.175 2.93643,1.6125 0,9.9375"
+       sodipodi:nodetypes="ccccccccccccccccc"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path18-9"
+       style="fill:#764a33;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 55.86161,490.12825 0,-3.15 4.13835,-1.79753 -4.13835,-1.97747 0,-7.5625 5.84988,-2.63503 -5.84988,-2.72747 0,-6.475 114.30374,-0.60492 0,3.3875 -3.60653,2.76496 3.60653,2.01004 0,6.9875 -2.51986,1.9875 2.51986,2.15 0,7.0375 -114.30374,0.60492"
+       sodipodi:nodetypes="ccccccccccccccccc"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path20-3"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 66.38205,467.56329 c 0,0 1.10282,-0.025 3.03592,-0.075 1.93055,-0.0375 4.68885,-0.125 7.99983,-0.1625 3.30842,-0.0375 7.17207,-0.1 11.30824,-0.125 4.13872,-0.0375 8.55251,-0.05 12.96375,-0.05 4.41379,0 8.82756,0.0125 12.96628,0.05 4.13618,0.025 7.99984,0.0875 11.31081,0.125 3.30843,0.0375 6.06672,0.125 7.99728,0.1625 1.93055,0.05 3.0359,0.075 3.0359,0.075 0,0 -1.10535,0.0375 -3.0359,0.0875 -1.93056,0.025 -4.68885,0.1125 -7.99728,0.15 -3.31097,0.0375 -7.17463,0.1125 -11.31081,0.1375 -4.13872,0.0375 -8.55249,0.0375 -12.96628,0.05 -4.41124,-0.0125 -8.82503,-0.0125 -12.96375,-0.05 -4.13617,-0.025 -7.99982,-0.1 -11.30824,-0.1375 -3.31098,-0.0375 -6.06928,-0.125 -7.99983,-0.15 -1.9331,-0.05 -3.03592,-0.0875 -3.03592,-0.0875"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path22-5"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 107.04082,471.87579 c 0,0 2.96971,-0.1125 7.42169,-0.2 2.22855,-0.025 4.82639,-0.0875 7.61015,-0.1 2.78376,-0.0125 5.75091,-0.0375 8.72061,-0.05 2.96968,0.0125 5.93937,0.0375 8.72314,0.05 2.78122,0.0125 5.3816,0.075 7.60759,0.1 4.45455,0.0875 7.42169,0.2 7.42169,0.2 0,0 -2.96714,0.1125 -7.42169,0.1875 -2.22599,0.025 -4.82637,0.1 -7.60759,0.1125 -2.78377,0.0125 -5.75346,0.025 -8.72314,0.0375 -2.9697,-0.0125 -5.93685,-0.025 -8.72061,-0.0375 -2.78376,-0.0125 -5.3816,-0.0875 -7.61015,-0.1125 -4.45198,-0.0875 -7.42169,-0.1875 -7.42169,-0.1875"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path24-6"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 86.60447,475.55079 c 0,0 1.88725,-0.0875 4.71432,-0.1625 1.41353,-0.0125 3.06393,-0.0625 4.83148,-0.075 1.7701,-0.0125 3.65481,-0.025 5.53952,-0.0375 1.88724,0.0125 3.77196,0.025 5.54206,0.0375 1.76756,0 3.4154,0.0625 4.83148,0.075 2.82706,0.075 4.71432,0.1625 4.71432,0.1625 0,0 -1.88726,0.0875 -4.71432,0.15 -1.41608,0.025 -3.06392,0.075 -4.83148,0.0875 -1.7701,0.0125 -3.65482,0.025 -5.54206,0.0375 -1.88471,-0.0125 -3.76942,-0.025 -5.53952,-0.0375 -1.76755,-0.0125 -3.41795,-0.0625 -4.83148,-0.0875 -2.82707,-0.0625 -4.71432,-0.15 -4.71432,-0.15"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path26-5"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 109.2872,479.11329 c 0,0 1.88725,-0.0875 4.71431,-0.15 1.41609,-0.025 3.06393,-0.075 4.83403,-0.0875 1.76756,-0.0125 3.65227,-0.025 5.53952,-0.0375 1.88471,0.0125 3.76942,0.025 5.53697,0.0375 1.7701,0.0125 3.42049,0.0625 4.83403,0.0875 2.82961,0.0625 4.71431,0.15 4.71431,0.15 0,0 -1.8847,0.1 -4.71431,0.1625 -1.41354,0.025 -3.06393,0.075 -4.83403,0.075 -1.76755,0.0125 -3.65226,0.025 -5.53697,0.0375 -1.88725,-0.0125 -3.77196,-0.025 -5.53952,-0.0375 -1.7701,0 -3.41794,-0.05 -4.83403,-0.075 -2.82706,-0.075 -4.71431,-0.1625 -4.71431,-0.1625"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path28-7"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 56.97522,478.17579 c 0,0 0.61375,-0.075 1.53375,-0.125 0.92125,-0.05 2.14875,-0.1 3.37625,-0.1 1.2275,0 2.455,0.0375 3.375,0.1 0.92125,0.05 1.535,0.125 1.535,0.125 0,0 -0.61375,0.075 -1.535,0.125 -0.92,0.05 -2.1475,0.1 -3.375,0.1 -1.2275,0 -2.455,-0.05 -3.37625,-0.1 -0.92,-0.05 -1.53375,-0.125 -1.53375,-0.125"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path30-8"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 76.60022,469.66329 c 0,0 1.25054,-0.0625 3.1276,-0.125 1.87453,-0.05 4.37559,-0.1 6.87665,-0.1 2.50107,0 5.00212,0.05 6.87919,0.1 1.87452,0.05 3.12506,0.125 3.12506,0.125 0,0 -1.25054,0.075 -3.12506,0.125 -1.87707,0.0625 -4.37812,0.1 -6.87919,0.1 -2.50106,0 -5.00212,-0.0375 -6.87665,-0.1 -1.87706,-0.05 -3.1276,-0.125 -3.1276,-0.125"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path32-3"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 71.78659,473.23829 c 0,0 1.25052,-0.075 3.12504,-0.125 1.87707,-0.05 4.37813,-0.1 6.8792,-0.1 2.50106,0 5.00211,0.05 6.87663,0.1 1.87707,0.05 3.1276,0.125 3.1276,0.125 0,0 -1.25053,0.075 -3.1276,0.125 -1.87452,0.05 -4.37557,0.1 -6.87663,0.1 -2.50107,0 -5.00213,-0.05 -6.8792,-0.1 -1.87452,-0.05 -3.12504,-0.125 -3.12504,-0.125"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path34-2"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 73.92597,484.05079 c 0,0 1.25054,-0.0625 3.12507,-0.125 1.87706,-0.05 4.37812,-0.1 6.87919,-0.1 2.50105,0 5.00211,0.05 6.87663,0.1 1.87707,0.0625 3.12761,0.125 3.12761,0.125 0,0 -1.25054,0.075 -3.12761,0.125 -1.87452,0.0625 -4.37558,0.1 -6.87663,0.1 -2.50107,0 -5.00213,-0.0375 -6.87919,-0.1 -1.87453,-0.05 -3.12507,-0.125 -3.12507,-0.125"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path36-0"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 68.20054,486.67579 c 0,0 2.85762,-0.1 7.13897,-0.1875 2.14195,-0.025 4.64046,-0.0875 7.31726,-0.1 2.6768,-0.0125 5.53188,-0.025 8.38695,-0.05 2.85763,0.025 5.71271,0.0375 8.38951,0.05 2.67679,0.0125 5.17531,0.075 7.31726,0.1 4.28133,0.0875 7.13897,0.1875 7.13897,0.1875 0,0 -2.85764,0.1125 -7.13897,0.2 -2.14195,0.025 -4.64047,0.0875 -7.31726,0.1 -2.6768,0.0125 -5.53188,0.025 -8.38951,0.0375 -2.85507,-0.0125 -5.71015,-0.025 -8.38695,-0.0375 -2.6768,-0.0125 -5.17531,-0.075 -7.31726,-0.1 -4.28135,-0.0875 -7.13897,-0.2 -7.13897,-0.2"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path38-4"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 85.10689,481.95079 c 0,0 2.85508,-0.1 7.13897,-0.1875 2.14194,-0.025 4.64046,-0.0875 7.31726,-0.1 2.6768,-0.0125 5.53187,-0.0375 8.38695,-0.05 2.85509,0.0125 5.71017,0.0375 8.38696,0.05 2.67679,0.0125 5.17786,0.075 7.31726,0.1 4.28388,0.0875 7.13898,0.1875 7.13898,0.1875 0,0 -2.8551,0.1125 -7.13898,0.1875 -2.1394,0.0375 -4.64047,0.1 -7.31726,0.1125 -2.67679,0.0125 -5.53187,0.025 -8.38696,0.0375 -2.85508,-0.0125 -5.71015,-0.025 -8.38695,-0.0375 -2.6768,-0.0125 -5.17532,-0.075 -7.31726,-0.1125 -4.28389,-0.075 -7.13897,-0.1875 -7.13897,-0.1875"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path40-6"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 168.91958,465.67579 c 0,0 -0.61375,0.075 -1.53375,0.125 -0.92125,0.05 -2.14875,0.1 -3.37625,0.1 -1.2275,0 -2.455,-0.05 -3.375,-0.1 -0.92125,-0.05 -1.535,-0.125 -1.535,-0.125 0,0 0.61375,-0.075 1.535,-0.125 0.92,-0.05 2.1475,-0.1 3.375,-0.1 1.2275,0 2.455,0.05 3.37625,0.1 0.92,0.05 1.53375,0.125 1.53375,0.125"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path42-6"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 141.65325,488.25079 c 0,0 -1.25052,0.075 -3.12504,0.125 -1.87706,0.0625 -4.37813,0.1 -6.87919,0.1 -2.50106,0 -5.00213,-0.0375 -6.87663,-0.1 -1.87707,-0.05 -3.12761,-0.125 -3.12761,-0.125 0,0 1.25054,-0.0625 3.12761,-0.125 1.8745,-0.05 4.37557,-0.1 6.87663,-0.0875 2.50106,-0.0125 5.00213,0.0375 6.87919,0.0875 1.87452,0.0625 3.12504,0.125 3.12504,0.125"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path44-7"
+       style="fill:#4d2f25;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 51.97421,489.27579 121.24284,0 0,5.875 -2.68291,1.18258 2.68291,2.07992 0,8.28763 -6.06071,2.12228 6.06071,2.50272 0,9.312 -121.24284,0 0,-6.23738 7.35567,-1.64716 -7.35567,-2.55296 0,-7.21238 4.81101,-1.86016 -4.81101,-1.91459 0,-9.9375"
+       sodipodi:nodetypes="ccccccccccccccccc"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path46-2"
+       style="fill:#764a33;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 168.07994,491.78829 0,3.15 -3.51351,2.1 3.51351,1.6875 0,7.5625 -5.22758,2.9375 5.22758,2.41263 0,6.47462 -110.97117,0 0,-3.375 6.10596,-2.76496 -6.10596,-2.01004 0,-6.98725 4.39444,-2.30246 -4.39444,-1.84754 0,-7.0375 110.97117,0"
+       sodipodi:nodetypes="ccccccccccccccccc"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path48-1"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 62.74507,495.26329 c 0,0 2.29221,-0.1 5.73309,-0.175 1.72171,-0.025 3.72866,-0.075 5.87825,-0.1 2.14958,-0.025 4.44435,-0.025 6.7391,-0.0375 2.29222,0.0125 4.58697,0.0125 6.73657,0.0375 2.14958,0.025 4.15655,0.075 5.87826,0.1 3.44086,0.075 5.73308,0.175 5.73308,0.175 0,0 -2.29222,0.0875 -5.73308,0.1625 -1.72171,0.025 -3.72868,0.075 -5.87826,0.1 -2.1496,0.025 -4.44435,0.025 -6.73657,0.0375 -2.29475,-0.0125 -4.58952,-0.0125 -6.7391,-0.0375 -2.14959,-0.025 -4.15654,-0.075 -5.87825,-0.1 -3.44088,-0.075 -5.73309,-0.1625 -5.73309,-0.1625"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path50-9"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 69.48673,499.56329 c 0,0 2.96714,-0.1125 7.42168,-0.1875 2.22599,-0.0375 4.82382,-0.1 7.6076,-0.1125 2.78377,-0.0125 5.75346,-0.025 8.72314,-0.05 2.96715,0.025 5.93685,0.0375 8.72061,0.05 2.78375,0.0125 5.3816,0.075 7.60761,0.1 4.45452,0.0875 7.42421,0.2 7.42421,0.2 0,0 -2.96969,0.1125 -7.42421,0.2 -2.22601,0.025 -4.82386,0.0875 -7.60761,0.0998 -2.78376,0.0126 -5.75346,0.0249 -8.72061,0.0503 -2.96968,-0.0254 -5.93937,-0.0376 -8.72314,-0.0503 -2.78378,-0.0125 -5.38161,-0.0747 -7.6076,-0.11225 -4.45454,-0.075 -7.42168,-0.1875 -7.42168,-0.1875"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path52-4"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 71.73311,506.81317 c 0,0 1.88469,-0.0874 4.71431,-0.16263 1.41353,-0.0125 3.06393,-0.0625 4.83148,-0.0751 1.76755,-0.0125 3.6548,-0.0249 5.53952,-0.0371 1.88724,0.0125 3.77196,0.0249 5.53952,0.0371 1.76753,0 3.41794,0.063 4.83146,0.0751 2.82961,0.0753 4.71433,0.16263 4.71433,0.16263 0,0 -1.88472,0.0874 -4.71433,0.14987 -1.41352,0.025 -3.06393,0.0753 -4.83146,0.0875 -1.76756,0.0126 -3.65228,0.0249 -5.53952,0.0375 -1.88472,-0.0126 -3.77197,-0.0249 -5.53952,-0.0375 -1.76755,-0.0125 -3.41795,-0.0625 -4.83148,-0.0875 -2.82962,-0.0625 -4.71431,-0.14987 -4.71431,-0.14987"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path54-3"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 57.44772,503.76292 c 0,0 0.61375,-0.0747 1.53375,-0.125 0.92125,-0.0499 2.14875,-0.0996 3.37625,-0.0996 1.2275,0 2.455,0.0498 3.375,0.0996 0.92125,0.0503 1.535,0.125 1.535,0.125 0,0 -0.61375,0.0751 -1.535,0.1255 -0.92,0.0498 -2.1475,0.0996 -3.375,0.0996 -1.2275,0 -2.455,-0.0499 -3.37625,-0.0996 -0.92,-0.0504 -1.53375,-0.1255 -1.53375,-0.1255"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path56-5"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 65.74023,509.65054 c 0,0 1.71916,-0.0874 4.29664,-0.14987 1.28872,-0.0249 2.79395,-0.0751 4.40358,-0.0874 1.6122,0 3.33136,-0.0128 5.04797,-0.0254 1.71916,0.0126 3.43833,0.0254 5.05052,0.0254 1.60964,0.0125 3.11486,0.0625 4.4036,0.0874 2.57745,0.0625 4.29661,0.14987 4.29661,0.14987 0,0 -1.71916,0.0753 -4.29661,0.13775 -1.28874,0.0249 -2.79396,0.0747 -4.4036,0.0874 -1.61219,0.0125 -3.33136,0.0249 -5.05052,0.0376 -1.71661,-0.0128 -3.43577,-0.0254 -5.04797,-0.0376 -1.60963,-0.0126 -3.11486,-0.0625 -4.40358,-0.0874 -2.57748,-0.0625 -4.29664,-0.13775 -4.29664,-0.13775"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path58-7"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 144.48796,511.75067 c 0,0 -2.96714,0.10012 -7.42167,0.1875 -2.226,0.0249 -4.82383,0.0874 -7.60761,0.10012 -2.78377,0.0249 -5.75346,0.0371 -8.72314,0.0497 -2.9697,-0.0126 -5.93684,-0.0249 -8.7206,-0.0375 -2.78376,-0.0125 -5.38161,-0.0875 -7.61015,-0.11237 -4.45199,-0.0751 -7.42168,-0.1875 -7.42168,-0.1875 0,0 2.96969,-0.11225 7.42168,-0.20013 2.22854,-0.025 4.82639,-0.0875 7.61015,-0.10012 2.78376,-0.0125 5.7509,-0.0371 8.7206,-0.0499 2.96968,0.0128 5.93937,0.0376 8.72314,0.0499 2.78378,0.0126 5.38161,0.0751 7.60761,0.10012 4.45453,0.0879 7.42167,0.20013 7.42167,0.20013"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path60-6"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 156.36418,506.38842 c 0,0 -1.13592,0.0874 -2.83979,0.16212 -1.70644,0.0625 -3.98082,0.11275 -6.25265,0.11275 -2.2744,0 -4.54877,-0.0503 -6.25266,-0.11275 -1.70642,-0.0747 -2.84234,-0.16212 -2.84234,-0.16212 0,0 1.13592,-0.0879 2.84234,-0.15038 1.70389,-0.0747 3.97826,-0.125 6.25266,-0.125 2.27183,0 4.54621,0.0503 6.25265,0.125 1.70387,0.0625 2.83979,0.15038 2.83979,0.15038"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path62-7"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 135.82339,504.36304 c 0,0 -1.88725,0.0879 -4.71431,0.15038 -1.41607,0.0249 -3.06648,0.0746 -4.83404,0.0874 -1.76753,0.0125 -3.65225,0.0249 -5.5395,0.0376 -1.88472,-0.0127 -3.77198,-0.0254 -5.53951,-0.0376 -1.76756,-0.0127 -3.41795,-0.0625 -4.83149,-0.0874 -2.82961,-0.0625 -4.71432,-0.15038 -4.71432,-0.15038 0,0 1.88471,-0.0875 4.71432,-0.16212 1.41354,-0.0127 3.06393,-0.0752 4.83149,-0.0752 1.76753,-0.0126 3.65479,-0.0249 5.53951,-0.0376 1.88725,0.0128 3.77197,0.025 5.5395,0.0376 1.76756,0 3.41797,0.0625 4.83404,0.0752 2.82706,0.0746 4.71431,0.16212 4.71431,0.16212"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path64-4"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 137.9628,496.83829 c 0,0 -1.25053,0.0625 -3.1276,0.125 -1.87452,0.05 -4.37559,0.1 -6.87664,0.0875 -2.50107,0.0125 -5.00213,-0.0375 -6.87919,-0.0875 -1.87453,-0.0625 -3.12505,-0.125 -3.12505,-0.125 0,0 1.25052,-0.075 3.12505,-0.1375 1.87706,-0.05 4.37812,-0.1 6.87919,-0.0875 2.50105,-0.0125 5.00212,0.0375 6.87664,0.1 1.87707,0.05 3.1276,0.125 3.1276,0.125"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path66-4"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 126.99582,493.36329 c 0,0 -1.25052,0.075 -3.12759,0.125 -1.87452,0.0625 -4.37559,0.1 -6.87665,0.1 -2.50105,0 -5.00211,-0.0375 -6.87919,-0.1 -1.8745,-0.05 -3.12504,-0.125 -3.12504,-0.125 0,0 1.25054,-0.0625 3.12504,-0.125 1.87708,-0.05 4.37814,-0.1 6.87919,-0.1 2.50106,0 5.00213,0.05 6.87665,0.1 1.87707,0.0625 3.12759,0.125 3.12759,0.125"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path68-5"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 104.09916,515.95042 c 0,0 -1.25053,0.063 -3.1276,0.1255 -1.87453,0.0498 -4.37558,0.0996 -6.87664,0.0996 -2.50107,0 -5.00212,-0.0499 -6.8792,-0.0996 -1.87451,-0.0625 -3.12503,-0.1255 -3.12503,-0.1255 0,0 1.25052,-0.0747 3.12503,-0.125 1.87708,-0.062 4.37813,-0.0996 6.8792,-0.0996 2.50106,0 5.00211,0.0376 6.87664,0.0996 1.87707,0.0503 3.1276,0.125 3.1276,0.125"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path70-3"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 159.78977,501.66329 c 0,0 -2.32023,0.11225 -5.80186,0.1875 -1.73952,0.0371 -3.77196,0.0874 -5.94701,0.11225 -2.17506,0.025 -4.49529,0.025 -6.81551,0.0376 -2.32024,0 -4.64047,-0.0126 -6.81552,-0.0376 -2.17507,-0.0249 -4.2075,-0.0751 -5.94703,-0.11225 -3.47906,-0.0753 -5.80185,-0.1875 -5.80185,-0.1875 0,0 2.32279,-0.11275 5.80185,-0.1875 1.73953,-0.0376 3.77196,-0.0874 5.94703,-0.11275 2.17505,-0.025 4.49528,-0.025 6.81552,-0.0371 2.32022,0.0125 4.64045,0.0125 6.81551,0.0371 2.17505,0.0254 4.20749,0.0751 5.94701,0.11275 3.48163,0.0747 5.80186,0.1875 5.80186,0.1875"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path72-4"
+       style="fill:#252323;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 170.19083,512.26342 4.80127,0 0,-42.78763 -4.80127,0 0,42.78763 z"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path74-6"
+       style="fill:#918f8e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 171.60958,512.26342 1.96337,0 0,-42.78763 -1.96337,0 0,42.78763 z"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path76-1"
+       style="fill:#252323;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 51.25897,512.26342 4.80078,0 0,-42.78763 -4.80078,0 0,42.78763 z"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path78-8"
+       style="fill:#918f8e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 52.67647,512.26342 1.96485,0 0,-42.78763 -1.96485,0 0,42.78763 z"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path80-7"
+       style="fill:#252323;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 51.45943,464.56329 121.67417,0 0,-4.8125 -121.67417,0 0,4.8125 z"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path82-4"
+       style="fill:#918f8e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 51.45943,463.13829 121.67417,0 0,-1.9624 -121.67417,0 0,1.9624 z"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path84-4"
+       style="fill:#252323;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 52.69198,521.98804 119.82535,0 0,-4.8125 -119.82535,0 0,4.8125 z"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path86-5"
+       style="fill:#918f8e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 52.69198,520.56317 119.82535,0 0,-1.9624 -119.82535,0 0,1.9624 z"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path88-0"
+       style="fill:#252323;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 61.88897,468.93829 4.0175,0 c 0.98125,0 1.77625,-0.8 1.77625,-1.775 l 0,-6.075 c 0,-0.975 -0.795,-1.775 -1.77625,-1.775 l -13.63625,0 c -0.98125,0 -1.77613,0.8 -1.77613,1.775 l 0,13.6375 c 0,0.9875 0.79488,1.775 1.77613,1.775 l 6.06625,0 c 0.98,0 1.77625,-0.7875 1.77625,-1.775 l 0,-4.0125 c 0,-0.9875 0.795,-1.775 1.77625,-1.775"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path90-3"
+       style="fill:#918f8e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 52.27022,474.82579 -0.0962,-0.1 0,-13.6375 0.0962,-0.0875 13.63625,0 0.0962,0.0875 0,6.075 -0.0962,0.0875 -4.0175,0 c -1.90625,0 -3.45625,1.55 -3.45625,3.4625 l 0,4.0125 -0.0975,0.1 -6.065,0"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path92-3"
+       style="fill:#b9b8b7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 64.69397,463.91329 c 0,0.975 -0.7875,1.7625 -1.75875,1.7625 -0.97125,0 -1.75875,-0.7875 -1.75875,-1.7625 0,-0.9625 0.7875,-1.75 1.75875,-1.75 0.97125,0 1.75875,0.7875 1.75875,1.75"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path94-5"
+       style="fill:#2e2d2d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 62.93522,462.57579 c -0.7375,0 -1.33875,0.6 -1.33875,1.3375 0,0.7375 0.60125,1.3375 1.33875,1.3375 0.7375,0 1.33875,-0.6 1.33875,-1.3375 0,-0.7375 -0.60125,-1.3375 -1.33875,-1.3375 z m 0,3.525 c -1.20125,0 -2.17875,-0.9875 -2.17875,-2.1875 0,-1.2 0.9775,-2.175 2.17875,-2.175 1.20125,0 2.17875,0.975 2.17875,2.175 0,1.2 -0.9775,2.1875 -2.17875,2.1875"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path96-5"
+       style="fill:#b9b8b7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 56.87022,471.87579 c 0,0.9625 -0.7875,1.75 -1.75875,1.75 -0.97125,0 -1.76,-0.7875 -1.76,-1.75 0,-0.975 0.78875,-1.7625 1.76,-1.7625 0.97125,0 1.75875,0.7875 1.75875,1.7625"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path98-6"
+       style="fill:#2e2d2d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 55.11147,470.53829 c -0.73875,0 -1.33875,0.6 -1.33875,1.3375 0,0.7375 0.6,1.3375 1.33875,1.3375 0.7375,0 1.33875,-0.6 1.33875,-1.3375 0,-0.7375 -0.60125,-1.3375 -1.33875,-1.3375 z m 0,3.5125 c -1.20125,0 -2.18,-0.975 -2.18,-2.175 0,-1.2 0.97875,-2.1875 2.18,-2.1875 1.20125,0 2.17875,0.9875 2.17875,2.1875 0,1.2 -0.9775,2.175 -2.17875,2.175"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path100-0"
+       style="fill:#252323;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 165.75583,470.71329 0,4.0125 c 0,0.9875 0.795,1.775 1.77625,1.775 l 6.06625,0 c 0.98125,0 1.77625,-0.7875 1.77625,-1.775 l 0,-13.6375 c 0,-0.975 -0.795,-1.775 -1.77625,-1.775 l -13.63625,0 c -0.98125,0 -1.77625,0.8 -1.77625,1.775 l 0,6.075 c 0,0.975 0.795,1.775 1.77625,1.775 l 4.0175,0 c 0.98125,0 1.77625,0.7875 1.77625,1.775"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path102-3"
+       style="fill:#918f8e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 159.86583,461.08829 0.0962,-0.0875 13.63625,0 0.0962,0.0875 0,13.6375 -0.0962,0.1 -6.06625,0 -0.0962,-0.1 0,-4.0125 c 0,-1.9125 -1.55,-3.4625 -3.45625,-3.4625 l -4.0175,0 -0.0962,-0.0875 0,-6.075"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path104-2"
+       style="fill:#b9b8b7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 170.77458,473.51329 c -0.97125,0 -1.75875,-0.7875 -1.75875,-1.75 0,-0.975 0.7875,-1.7625 1.75875,-1.7625 0.97125,0 1.75875,0.7875 1.75875,1.7625 0,0.9625 -0.7875,1.75 -1.75875,1.75"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path106-9"
+       style="fill:#2e2d2d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 170.77458,470.42579 c -0.7375,0 -1.33875,0.6 -1.33875,1.3375 0,0.7375 0.60125,1.3375 1.33875,1.3375 0.73875,0 1.33875,-0.6 1.33875,-1.3375 0,-0.7375 -0.6,-1.3375 -1.33875,-1.3375 z m 0,3.5125 c -1.20125,0 -2.17875,-0.975 -2.17875,-2.175 0,-1.2125 0.9775,-2.1875 2.17875,-2.1875 1.20125,0 2.17875,0.975 2.17875,2.1875 0,1.2 -0.9775,2.175 -2.17875,2.175"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path108-5"
+       style="fill:#b9b8b7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 162.81958,465.68829 c -0.97125,0 -1.75875,-0.7875 -1.75875,-1.75 0,-0.975 0.7875,-1.7625 1.75875,-1.7625 0.97125,0 1.75875,0.7875 1.75875,1.7625 0,0.9625 -0.7875,1.75 -1.75875,1.75"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path110-3"
+       style="fill:#2e2d2d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 162.81958,462.60079 c -0.73875,0 -1.33875,0.6 -1.33875,1.3375 0,0.7375 0.6,1.3375 1.33875,1.3375 0.73875,0 1.33875,-0.6 1.33875,-1.3375 0,-0.7375 -0.6,-1.3375 -1.33875,-1.3375 z m 0,3.5125 c -1.20125,0 -2.17875,-0.975 -2.17875,-2.175 0,-1.2 0.9775,-2.1875 2.17875,-2.1875 1.20125,0 2.17875,0.9875 2.17875,2.1875 0,1.2 -0.9775,2.175 -2.17875,2.175"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path112-0"
+       style="fill:#252323;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 163.97958,512.82542 -4.0175,0 c -0.98125,0 -1.77625,0.78762 -1.77625,1.77537 l 0,6.0625 c 0,0.98725 0.795,1.77488 1.77625,1.77488 l 13.63625,0 c 0.98125,0 1.77625,-0.78763 1.77625,-1.77488 l 0,-13.63775 c 0,-0.975 -0.795,-1.77487 -1.77625,-1.77487 l -6.06625,0 c -0.98125,0 -1.77625,0.79987 -1.77625,1.77487 l 0,4.025 c 0,0.975 -0.795,1.77488 -1.77625,1.77488"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path114-9"
+       style="fill:#918f8e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 173.59833,506.93817 0.0962,0.0874 0,13.63775 -0.0962,0.10012 -13.63625,0 -0.0962,-0.10012 0,-6.0625 0.0962,-0.10013 4.0175,0 c 1.90625,0 3.45625,-1.54975 3.45625,-3.45012 l 0,-4.025 0.0962,-0.0874 6.06625,0"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path116-9"
+       style="fill:#b9b8b7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 161.17458,517.83804 c 0,-0.96237 0.7875,-1.75 1.75875,-1.75 0.97125,0 1.75875,0.78763 1.75875,1.75 0,0.97513 -0.7875,1.76275 -1.75875,1.76275 -0.97125,0 -1.75875,-0.78762 -1.75875,-1.76275"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path118-5"
+       style="fill:#2e2d2d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 162.93333,516.50067 c -0.73875,0 -1.33875,0.60012 -1.33875,1.33737 0,0.73788 0.6,1.3375 1.33875,1.3375 0.7375,0 1.33875,-0.59962 1.33875,-1.3375 0,-0.73725 -0.60125,-1.33737 -1.33875,-1.33737 z m 0,3.52487 c -1.20125,0 -2.17875,-0.98725 -2.17875,-2.1875 0,-1.19962 0.9775,-2.17475 2.17875,-2.17475 1.20125,0 2.17875,0.97513 2.17875,2.17475 0,1.20025 -0.9775,2.1875 -2.17875,2.1875"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path120-8"
+       style="fill:#b9b8b7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 168.99833,509.88792 c 0,-0.97463 0.7875,-1.76225 1.75875,-1.76225 0.97125,0 1.75875,0.78762 1.75875,1.76225 0,0.97512 -0.7875,1.76262 -1.75875,1.76262 -0.97125,0 -1.75875,-0.7875 -1.75875,-1.76262"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path122-5"
+       style="fill:#2e2d2d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 170.75708,508.55054 c -0.7375,0 -1.33875,0.6 -1.33875,1.33738 0,0.73775 0.60125,1.33787 1.33875,1.33787 0.73875,0 1.33875,-0.60012 1.33875,-1.33787 0,-0.73738 -0.6,-1.33738 -1.33875,-1.33738 z m 0,3.51263 c -1.20125,0 -2.17875,-0.97513 -2.17875,-2.17525 0,-1.19975 0.9775,-2.17488 2.17875,-2.17488 1.20125,0 2.18,0.97513 2.18,2.17488 0,1.20012 -0.97875,2.17525 -2.18,2.17525"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path124-4"
+       style="fill:#252323;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 60.11272,511.05054 0,-4.025 c 0,-0.975 -0.795,-1.77487 -1.77625,-1.77487 l -6.06625,0 c -0.98125,0 -1.77613,0.79987 -1.77613,1.77487 l 0,13.63775 c 0,0.98725 0.79488,1.77488 1.77613,1.77488 l 13.63625,0 c 0.98125,0 1.77625,-0.78763 1.77625,-1.77488 l 0,-6.0625 c 0,-0.98775 -0.795,-1.77537 -1.77625,-1.77537 l -4.0175,0 c -0.98125,0 -1.77625,-0.79988 -1.77625,-1.77488"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path126-5"
+       style="fill:#918f8e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 66.00272,520.66329 -0.0962,0.10013 -13.63625,0 -0.0962,-0.10013 0,-13.63775 0.0962,-0.0874 6.06625,0 0.0962,0.0874 0,4.025 c 0,1.90038 1.55,3.45013 3.45625,3.45013 l 4.0175,0 0.0962,0.10012 0,6.0625"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path128-2"
+       style="fill:#b9b8b7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 55.09397,508.23804 c 0.97125,0 1.75875,0.7875 1.75875,1.76263 0,0.97512 -0.7875,1.76225 -1.75875,1.76225 -0.97125,0 -1.75875,-0.78713 -1.75875,-1.76225 0,-0.97513 0.7875,-1.76263 1.75875,-1.76263"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path130-0"
+       style="fill:#2e2d2d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 55.09397,508.66329 c -0.73875,0 -1.33875,0.59963 -1.33875,1.33738 0,0.73737 0.6,1.33737 1.33875,1.33737 0.7375,0 1.33875,-0.6 1.33875,-1.33737 0,-0.73775 -0.60125,-1.33738 -1.33875,-1.33738 z m 0,3.51225 c -1.20125,0 -2.17875,-0.97462 -2.17875,-2.17487 0,-1.20013 0.9775,-2.17525 2.17875,-2.17525 1.20125,0 2.17875,0.97512 2.17875,2.17525 0,1.20025 -0.9775,2.17487 -2.17875,2.17487"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path132-8"
+       style="fill:#b9b8b7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 63.04897,516.06317 c 0.97125,0 1.75875,0.78762 1.75875,1.76225 0,0.97512 -0.7875,1.76262 -1.75875,1.76262 -0.97125,0 -1.75875,-0.7875 -1.75875,-1.76262 0,-0.97463 0.7875,-1.76225 1.75875,-1.76225"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path134-6.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path134-6"
+       style="fill:#2e2d2d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 63.04897,516.48804 c -0.73875,0 -1.33875,0.6 -1.33875,1.33738 0,0.73775 0.6,1.33787 1.33875,1.33787 0.73875,0 1.33875,-0.60012 1.33875,-1.33787 0,-0.73738 -0.6,-1.33738 -1.33875,-1.33738 z m 0,3.51263 c -1.20125,0 -2.17875,-0.97513 -2.17875,-2.17525 0,-1.19975 0.9775,-2.17488 2.17875,-2.17488 1.20125,0 2.17875,0.97513 2.17875,2.17488 0,1.20012 -0.9775,2.17525 -2.17875,2.17525"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path20-4"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 166.23835,382.19088 c 0,0 1.51912,-0.025 4.18194,-0.075 2.65931,-0.0375 6.45883,-0.125 11.01966,-0.1625 4.55732,-0.0375 9.87945,-0.1 15.57696,-0.125 5.70104,-0.0375 11.78099,-0.05 17.85741,-0.05 6.07993,0 12.15985,0.0125 17.86089,0.05 5.69753,0.025 11.01967,0.0875 15.58049,0.125 4.55732,0.0375 8.35683,0.125 11.01614,0.1625 2.65932,0.05 4.18192,0.075 4.18192,0.075 0,0 -1.52261,0.0375 -4.18192,0.0875 -2.65931,0.025 -6.45882,0.1125 -11.01614,0.15 -4.56082,0.0375 -9.88296,0.1125 -15.58049,0.1375 -5.70104,0.0375 -11.78096,0.0375 -17.86089,0.05 -6.07642,-0.0125 -12.15637,-0.0125 -17.85741,-0.05 -5.69751,-0.025 -11.01964,-0.1 -15.57696,-0.1375 -4.56083,-0.0375 -8.36035,-0.125 -11.01966,-0.15 -2.66282,-0.05 -4.18194,-0.0875 -4.18194,-0.0875"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path22-6"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 222.2453,386.50338 c 0,0 4.09073,-0.1125 10.22327,-0.2 3.0698,-0.025 6.64829,-0.0875 10.48289,-0.1 3.83459,-0.0125 7.92181,-0.0375 12.01253,-0.05 4.0907,0.0125 8.18141,0.0375 12.01601,0.05 3.83109,0.0125 7.41309,0.075 10.47936,0.1 6.13608,0.0875 10.22328,0.2 10.22328,0.2 0,0 -4.08719,0.1125 -10.22328,0.1875 -3.06628,0.025 -6.64827,0.1 -10.47936,0.1125 -3.8346,0.0125 -7.92531,0.025 -12.01601,0.0375 -4.09072,-0.0125 -8.17794,-0.025 -12.01253,-0.0375 -3.8346,-0.0125 -7.41309,-0.0875 -10.48289,-0.1125 -6.13254,-0.0875 -10.22327,-0.1875 -10.22327,-0.1875"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path24-5"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 194.09448,390.17838 c 0,0 2.59967,-0.0875 6.49392,-0.1625 1.94712,-0.0125 4.22052,-0.0625 6.6553,-0.075 2.43829,-0.0125 5.03445,-0.025 7.63062,-0.0375 2.59965,0.0125 5.19583,0.025 7.63412,0.0375 2.43479,0 4.70467,0.0625 6.65529,0.075 3.89424,0.075 6.49392,0.1625 6.49392,0.1625 0,0 -2.59968,0.0875 -6.49392,0.15 -1.95062,0.025 -4.2205,0.075 -6.65529,0.0875 -2.43829,0.0125 -5.03447,0.025 -7.63412,0.0375 -2.59617,-0.0125 -5.19233,-0.025 -7.63062,-0.0375 -2.43478,-0.0125 -4.70818,-0.0625 -6.6553,-0.0875 -3.89425,-0.0625 -6.49392,-0.15 -6.49392,-0.15"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path26-59"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 225.33966,393.74088 c 0,0 2.59966,-0.0875 6.4939,-0.15 1.95063,-0.025 4.22052,-0.075 6.6588,-0.0875 2.43479,-0.0125 5.03096,-0.025 7.63062,-0.0375 2.59617,0.0125 5.19234,0.025 7.62712,0.0375 2.43828,0.0125 4.71168,0.0625 6.6588,0.0875 3.89776,0.0625 6.4939,0.15 6.4939,0.15 0,0 -2.59614,0.1 -6.4939,0.1625 -1.94712,0.025 -4.22052,0.075 -6.6588,0.075 -2.43478,0.0125 -5.03095,0.025 -7.62712,0.0375 -2.59965,-0.0125 -5.19583,-0.025 -7.63062,-0.0375 -2.43828,0 -4.70817,-0.05 -6.6588,-0.075 -3.89424,-0.075 -6.4939,-0.1625 -6.4939,-0.1625"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path30-3"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 180.31375,384.29088 c 0,0 1.7226,-0.0625 4.30823,-0.125 2.58214,-0.05 6.02732,-0.1 9.4725,-0.1 3.44519,0 6.89036,0.05 9.47599,0.1 2.58214,0.05 4.30474,0.125 4.30474,0.125 0,0 -1.7226,0.075 -4.30474,0.125 -2.58563,0.0625 -6.0308,0.1 -9.47599,0.1 -3.44518,0 -6.89036,-0.0375 -9.4725,-0.1 -2.58563,-0.05 -4.30823,-0.125 -4.30823,-0.125"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path32-1"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 173.68303,387.86588 c 0,0 1.72258,-0.075 4.30471,-0.125 2.58564,-0.05 6.03081,-0.1 9.476,-0.1 3.44519,0 6.89035,0.05 9.47249,0.1 2.58564,0.05 4.30823,0.125 4.30823,0.125 0,0 -1.72259,0.075 -4.30823,0.125 -2.58214,0.05 -6.0273,0.1 -9.47249,0.1 -3.44519,0 -6.89036,-0.05 -9.476,-0.1 -2.58213,-0.05 -4.30471,-0.125 -4.30471,-0.125"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path34-7"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 176.63001,398.67838 c 0,0 1.7226,-0.0625 4.30473,-0.125 2.58564,-0.05 6.03081,-0.1 9.476,-0.1 3.44518,0 6.89036,0.05 9.47248,0.1 2.58565,0.0625 4.30824,0.125 4.30824,0.125 0,0 -1.72259,0.075 -4.30824,0.125 -2.58212,0.0625 -6.0273,0.1 -9.47248,0.1 -3.44519,0 -6.89036,-0.0375 -9.476,-0.1 -2.58213,-0.05 -4.30473,-0.125 -4.30473,-0.125"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path36-7"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 168.7433,401.30338 c 0,0 3.93633,-0.1 9.83384,-0.1875 2.95051,-0.025 6.39217,-0.0875 10.07944,-0.1 3.68725,-0.0125 7.62009,-0.025 11.55292,-0.05 3.93635,0.025 7.86918,0.0375 11.55643,0.05 3.68724,0.0125 7.12893,0.075 10.07944,0.1 5.89748,0.0875 9.83384,0.1875 9.83384,0.1875 0,0 -3.93636,0.1125 -9.83384,0.2 -2.95051,0.025 -6.3922,0.0875 -10.07944,0.1 -3.68725,0.0125 -7.62008,0.025 -11.55643,0.0375 -3.93283,-0.0125 -7.86567,-0.025 -11.55292,-0.0375 -3.68727,-0.0125 -7.12893,-0.075 -10.07944,-0.1 -5.89751,-0.0875 -9.83384,-0.2 -9.83384,-0.2"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path38-41"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 192.03158,396.57838 c 0,0 3.93284,-0.1 9.83385,-0.1875 2.95049,-0.025 6.39216,-0.0875 10.07943,-0.1 3.68725,-0.0125 7.62008,-0.0375 11.55292,-0.05 3.93284,0.0125 7.86568,0.0375 11.55292,0.05 3.68725,0.0125 7.13244,0.075 10.07943,0.1 5.901,0.0875 9.83386,0.1875 9.83386,0.1875 0,0 -3.93286,0.1125 -9.83386,0.1875 -2.94699,0.0375 -6.39218,0.1 -10.07943,0.1125 -3.68724,0.0125 -7.62008,0.025 -11.55292,0.0375 -3.93284,-0.0125 -7.86567,-0.025 -11.55292,-0.0375 -3.68727,-0.0125 -7.12894,-0.075 -10.07943,-0.1125 -5.90101,-0.075 -9.83385,-0.1875 -9.83385,-0.1875"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path42-2"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 269.92347,402.87838 c 0,0 -1.72257,0.075 -4.30471,0.125 -2.58563,0.0625 -6.03081,0.1 -9.47598,0.1 -3.44518,0 -6.89037,-0.0375 -9.47248,-0.1 -2.58564,-0.05 -4.30825,-0.125 -4.30825,-0.125 0,0 1.72261,-0.0625 4.30825,-0.125 2.58211,-0.05 6.0273,-0.1 9.47248,-0.0875 3.44517,-0.0125 6.89035,0.0375 9.47598,0.0875 2.58214,0.0625 4.30471,0.125 4.30471,0.125"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path48-2"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 161.22846,409.89088 c 0,0 3.15749,-0.1 7.89725,-0.175 2.37164,-0.025 5.13618,-0.075 8.09723,-0.1 2.96101,-0.025 6.12203,-0.025 9.28301,-0.0375 3.15751,0.0125 6.31851,0.0125 9.27955,0.0375 2.96102,0.025 5.72559,0.075 8.09723,0.1 4.73974,0.075 7.89724,0.175 7.89724,0.175 0,0 -3.1575,0.0875 -7.89724,0.1625 -2.37164,0.025 -5.13621,0.075 -8.09723,0.1 -2.96104,0.025 -6.12204,0.025 -9.27955,0.0375 -3.16098,-0.0125 -6.322,-0.0125 -9.28301,-0.0375 -2.96105,-0.025 -5.72559,-0.075 -8.09723,-0.1 -4.73976,-0.075 -7.89725,-0.1625 -7.89725,-0.1625"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path50-7"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 170.51502,414.19088 c 0,0 4.08718,-0.1125 10.22326,-0.1875 3.06627,-0.0375 6.64475,-0.1 10.47937,-0.1125 3.83461,-0.0125 7.92532,-0.025 12.01602,-0.05 4.08721,0.025 8.17793,0.0375 12.01252,0.05 3.83459,0.0125 7.4131,0.075 10.47939,0.1 6.13605,0.0875 10.22676,0.2 10.22676,0.2 0,0 -4.09071,0.1125 -10.22676,0.2 -3.06629,0.025 -6.6448,0.0875 -10.47939,0.0998 -3.83459,0.0126 -7.92531,0.0249 -12.01252,0.0503 -4.0907,-0.0254 -8.18141,-0.0376 -12.01602,-0.0503 -3.83462,-0.0125 -7.4131,-0.0747 -10.47937,-0.11225 -6.13608,-0.075 -10.22326,-0.1875 -10.22326,-0.1875"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path52-9"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 173.60936,421.44076 c 0,0 2.59615,-0.0874 6.4939,-0.16263 1.94713,-0.0125 4.22053,-0.0625 6.65531,-0.0751 2.43478,-0.0125 5.03444,-0.0249 7.63062,-0.0371 2.59966,0.0125 5.19583,0.0249 7.63062,0.0371 2.43475,0 4.70817,0.063 6.65527,0.0751 3.89776,0.0753 6.49394,0.16263 6.49394,0.16263 0,0 -2.59618,0.0874 -6.49394,0.14987 -1.9471,0.025 -4.22052,0.0753 -6.65527,0.0875 -2.43479,0.0126 -5.03096,0.0249 -7.63062,0.0375 -2.59618,-0.0126 -5.19584,-0.0249 -7.63062,-0.0375 -2.43478,-0.0125 -4.70818,-0.0625 -6.65531,-0.0875 -3.89775,-0.0625 -6.4939,-0.14987 -6.4939,-0.14987"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path56-59"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 165.35426,424.27813 c 0,0 2.36811,-0.0874 5.91856,-0.14987 1.77519,-0.0249 3.84863,-0.0751 6.06587,-0.0874 2.22079,0 4.58891,-0.0128 6.95352,-0.0254 2.36812,0.0126 4.73625,0.0254 6.95702,0.0254 2.21726,0.0125 4.29069,0.0625 6.06591,0.0874 3.55041,0.0625 5.91853,0.14987 5.91853,0.14987 0,0 -2.36812,0.0753 -5.91853,0.13775 -1.77522,0.0249 -3.84865,0.0747 -6.06591,0.0874 -2.22077,0.0125 -4.5889,0.0249 -6.95702,0.0376 -2.36461,-0.0128 -4.73273,-0.0254 -6.95352,-0.0376 -2.21724,-0.0126 -4.29068,-0.0625 -6.06587,-0.0874 -3.55045,-0.0625 -5.91856,-0.13775 -5.91856,-0.13775"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path58-5"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 273.82824,426.37826 c 0,0 -4.08719,0.10012 -10.22325,0.1875 -3.06629,0.0249 -6.64476,0.0874 -10.47938,0.10012 -3.8346,0.0249 -7.92531,0.0371 -12.01601,0.0497 -4.09072,-0.0126 -8.17792,-0.0249 -12.01253,-0.0375 -3.83459,-0.0125 -7.41309,-0.0875 -10.48287,-0.11237 -6.13256,-0.0751 -10.22327,-0.1875 -10.22327,-0.1875 0,0 4.09071,-0.11225 10.22327,-0.20013 3.06978,-0.025 6.64828,-0.0875 10.48287,-0.10012 3.83461,-0.0125 7.92181,-0.0371 12.01253,-0.0499 4.0907,0.0128 8.18141,0.0376 12.01601,0.0499 3.83462,0.0126 7.41309,0.0751 10.47938,0.10012 6.13605,0.0879 10.22325,0.20013 10.22325,0.20013"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path60-7"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 290.18757,421.01601 c 0,0 -1.56469,0.0874 -3.91176,0.16212 -2.35059,0.0625 -5.48352,0.11275 -8.61294,0.11275 -3.13295,0 -6.26588,-0.0503 -8.61296,-0.11275 -2.35058,-0.0747 -3.91528,-0.16212 -3.91528,-0.16212 0,0 1.5647,-0.0879 3.91528,-0.15038 2.34708,-0.0747 5.48001,-0.125 8.61296,-0.125 3.12942,0 6.26235,0.0503 8.61294,0.125 2.34707,0.0625 3.91176,0.15038 3.91176,0.15038"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path62-0"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 261.89291,418.99063 c 0,0 -2.59965,0.0879 -6.49389,0.15038 -1.95063,0.0249 -4.22405,0.0746 -6.65884,0.0874 -2.43475,0.0125 -5.03092,0.0249 -7.63058,0.0376 -2.59618,-0.0127 -5.19586,-0.0254 -7.63061,-0.0376 -2.43479,-0.0127 -4.70818,-0.0625 -6.65531,-0.0874 -3.89775,-0.0625 -6.49393,-0.15038 -6.49393,-0.15038 0,0 2.59618,-0.0875 6.49393,-0.16212 1.94713,-0.0127 4.22052,-0.0752 6.65531,-0.0752 2.43475,-0.0126 5.03443,-0.0249 7.63061,-0.0376 2.59966,0.0128 5.19583,0.025 7.63058,0.0376 2.43479,0 4.70821,0.0625 6.65884,0.0752 3.89423,0.0746 6.49389,0.16212 6.49389,0.16212"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path64-0"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 264.83991,411.46588 c 0,0 -1.72259,0.0625 -4.30822,0.125 -2.58213,0.05 -6.02731,0.1 -9.47248,0.0875 -3.44519,0.0125 -6.89036,-0.0375 -9.476,-0.0875 -2.58213,-0.0625 -4.30472,-0.125 -4.30472,-0.125 0,0 1.72259,-0.075 4.30472,-0.1375 2.58564,-0.05 6.03081,-0.1 9.476,-0.0875 3.44517,-0.0125 6.89035,0.0375 9.47248,0.1 2.58563,0.05 4.30822,0.125 4.30822,0.125"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path66-1"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 249.73305,407.99088 c 0,0 -1.72257,0.075 -4.30822,0.125 -2.58213,0.0625 -6.02731,0.1 -9.47249,0.1 -3.44516,0 -6.89034,-0.0375 -9.476,-0.1 -2.5821,-0.05 -4.30471,-0.125 -4.30471,-0.125 0,0 1.72261,-0.0625 4.30471,-0.125 2.58566,-0.05 6.03084,-0.1 9.476,-0.1 3.44518,0 6.89036,0.05 9.47249,0.1 2.58565,0.0625 4.30822,0.125 4.30822,0.125"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path68-9"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 301.62869,430.57801 c 0,0 -3.70471,0.063 -9.26555,0.1255 -5.55332,0.0498 -12.96272,0.0996 -20.37217,0.0996 -7.40944,0 -14.81886,-0.0499 -20.37971,-0.0996 -5.5533,-0.0625 -9.25799,-0.1255 -9.25799,-0.1255 0,0 3.70469,-0.0747 9.25799,-0.125 5.56085,-0.062 12.97027,-0.0996 20.37971,-0.0996 7.40944,0 14.81885,0.0376 20.37217,0.0996 5.56084,0.0503 9.26555,0.125 9.26555,0.125"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path70-9"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 294.90628,416.29088 c 0,0 -3.19608,0.11225 -7.99198,0.1875 -2.39617,0.0371 -5.19582,0.0874 -8.19194,0.11225 -2.9961,0.025 -6.19219,0.025 -9.38828,0.0376 -3.19609,0 -6.39217,-0.0126 -9.38828,-0.0376 -2.99612,-0.0249 -5.79576,-0.0751 -8.19195,-0.11225 -4.79236,-0.0753 -7.99197,-0.1875 -7.99197,-0.1875 0,0 3.19961,-0.11275 7.99197,-0.1875 2.39619,-0.0376 5.19583,-0.0874 8.19195,-0.11275 2.99611,-0.025 6.19219,-0.025 9.38828,-0.0371 3.19608,0.0125 6.39217,0.0125 9.38828,0.0371 2.99612,0.0254 5.79578,0.0751 8.19194,0.11275 4.7959,0.0747 7.99198,0.1875 7.99198,0.1875"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path20-1"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 274.80978,382.19089 c 0,0 1.51912,-0.025 4.18194,-0.075 2.65931,-0.0375 6.45883,-0.125 11.01966,-0.1625 4.55731,-0.0375 9.87944,-0.1 15.57696,-0.125 5.70104,-0.0375 11.78099,-0.05 17.85741,-0.05 6.07993,0 12.15985,0.0125 17.86089,0.05 5.69753,0.025 11.01967,0.0875 15.58049,0.125 4.55732,0.0375 8.35683,0.125 11.01614,0.1625 2.65932,0.05 4.18192,0.075 4.18192,0.075 0,0 -1.52261,0.0375 -4.18192,0.0875 -2.65931,0.025 -6.45882,0.1125 -11.01614,0.15 -4.56082,0.0375 -9.88296,0.1125 -15.58049,0.1375 -5.70104,0.0375 -11.78096,0.0375 -17.86089,0.05 -6.07642,-0.0125 -12.15637,-0.0125 -17.85741,-0.05 -5.69752,-0.025 -11.01965,-0.1 -15.57696,-0.1375 -4.56083,-0.0375 -8.36035,-0.125 -11.01966,-0.15 -2.66282,-0.05 -4.18194,-0.0875 -4.18194,-0.0875"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path22-9"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 330.81673,386.50339 c 0,0 4.09073,-0.1125 10.22327,-0.2 3.0698,-0.025 6.64829,-0.0875 10.48289,-0.1 3.83459,-0.0125 7.92181,-0.0375 12.01253,-0.05 4.0907,0.0125 8.18141,0.0375 12.01601,0.05 3.83109,0.0125 7.41309,0.075 10.47936,0.1 6.13608,0.0875 10.22328,0.2 10.22328,0.2 0,0 -4.08719,0.1125 -10.22328,0.1875 -3.06628,0.025 -6.64827,0.1 -10.47936,0.1125 -3.8346,0.0125 -7.92531,0.025 -12.01601,0.0375 -4.09072,-0.0125 -8.17794,-0.025 -12.01253,-0.0375 -3.8346,-0.0125 -7.41309,-0.0875 -10.48289,-0.1125 -6.13254,-0.0875 -10.22327,-0.1875 -10.22327,-0.1875"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path24-1"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 302.66591,390.17839 c 0,0 2.59967,-0.0875 6.49392,-0.1625 1.94712,-0.0125 4.22052,-0.0625 6.6553,-0.075 2.43829,-0.0125 5.03445,-0.025 7.63062,-0.0375 2.59965,0.0125 5.19583,0.025 7.63412,0.0375 2.43479,0 4.70467,0.0625 6.65529,0.075 3.89424,0.075 6.49392,0.1625 6.49392,0.1625 0,0 -2.59968,0.0875 -6.49392,0.15 -1.95062,0.025 -4.2205,0.075 -6.65529,0.0875 -2.43829,0.0125 -5.03447,0.025 -7.63412,0.0375 -2.59617,-0.0125 -5.19233,-0.025 -7.63062,-0.0375 -2.43478,-0.0125 -4.70818,-0.0625 -6.6553,-0.0875 -3.89425,-0.0625 -6.49392,-0.15 -6.49392,-0.15"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path26-9"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 333.91109,393.74089 c 0,0 2.59966,-0.0875 6.4939,-0.15 1.95063,-0.025 4.22052,-0.075 6.6588,-0.0875 2.43479,-0.0125 5.03096,-0.025 7.63062,-0.0375 2.59617,0.0125 5.19234,0.025 7.62712,0.0375 2.43828,0.0125 4.71168,0.0625 6.6588,0.0875 3.89776,0.0625 6.4939,0.15 6.4939,0.15 0,0 -2.59614,0.1 -6.4939,0.1625 -1.94712,0.025 -4.22052,0.075 -6.6588,0.075 -2.43478,0.0125 -5.03095,0.025 -7.62712,0.0375 -2.59965,-0.0125 -5.19583,-0.025 -7.63062,-0.0375 -2.43828,0 -4.70817,-0.05 -6.6588,-0.075 -3.89424,-0.075 -6.4939,-0.1625 -6.4939,-0.1625"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path30-80"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 288.88518,384.29089 c 0,0 1.7226,-0.0625 4.30823,-0.125 2.58214,-0.05 6.02732,-0.1 9.4725,-0.1 3.44519,0 6.89036,0.05 9.47599,0.1 2.58214,0.05 4.30474,0.125 4.30474,0.125 0,0 -1.7226,0.075 -4.30474,0.125 -2.58563,0.0625 -6.0308,0.1 -9.47599,0.1 -3.44518,0 -6.89036,-0.0375 -9.4725,-0.1 -2.58563,-0.05 -4.30823,-0.125 -4.30823,-0.125"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path32-8"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 282.25446,387.86589 c 0,0 1.72257,-0.075 4.30471,-0.125 2.58564,-0.05 6.03081,-0.1 9.476,-0.1 3.44518,0 6.89035,0.05 9.47249,0.1 2.58564,0.05 4.30823,0.125 4.30823,0.125 0,0 -1.72259,0.075 -4.30823,0.125 -2.58214,0.05 -6.02731,0.1 -9.47249,0.1 -3.44519,0 -6.89036,-0.05 -9.476,-0.1 -2.58214,-0.05 -4.30471,-0.125 -4.30471,-0.125"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path34-27"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 285.20143,398.67839 c 0,0 1.72261,-0.0625 4.30474,-0.125 2.58564,-0.05 6.03081,-0.1 9.476,-0.1 3.44517,0 6.89036,0.05 9.47248,0.1 2.58565,0.0625 4.30824,0.125 4.30824,0.125 0,0 -1.72259,0.075 -4.30824,0.125 -2.58212,0.0625 -6.02731,0.1 -9.47248,0.1 -3.44519,0 -6.89036,-0.0375 -9.476,-0.1 -2.58213,-0.05 -4.30474,-0.125 -4.30474,-0.125"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path36-6"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 277.31473,401.30339 c 0,0 3.93633,-0.1 9.83384,-0.1875 2.9505,-0.025 6.39217,-0.0875 10.07943,-0.1 3.68726,-0.0125 7.6201,-0.025 11.55293,-0.05 3.93635,0.025 7.86918,0.0375 11.55643,0.05 3.68724,0.0125 7.12893,0.075 10.07944,0.1 5.89748,0.0875 9.83384,0.1875 9.83384,0.1875 0,0 -3.93636,0.1125 -9.83384,0.2 -2.95051,0.025 -6.3922,0.0875 -10.07944,0.1 -3.68725,0.0125 -7.62008,0.025 -11.55643,0.0375 -3.93283,-0.0125 -7.86567,-0.025 -11.55293,-0.0375 -3.68726,-0.0125 -7.12893,-0.075 -10.07943,-0.1 -5.89751,-0.0875 -9.83384,-0.2 -9.83384,-0.2"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path38-7"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 300.60301,396.57839 c 0,0 3.93284,-0.1 9.83385,-0.1875 2.95049,-0.025 6.39216,-0.0875 10.07943,-0.1 3.68725,-0.0125 7.62008,-0.0375 11.55292,-0.05 3.93284,0.0125 7.86568,0.0375 11.55292,0.05 3.68725,0.0125 7.13244,0.075 10.07943,0.1 5.901,0.0875 9.83386,0.1875 9.83386,0.1875 0,0 -3.93286,0.1125 -9.83386,0.1875 -2.94699,0.0375 -6.39218,0.1 -10.07943,0.1125 -3.68724,0.0125 -7.62008,0.025 -11.55292,0.0375 -3.93284,-0.0125 -7.86567,-0.025 -11.55292,-0.0375 -3.68727,-0.0125 -7.12894,-0.075 -10.07943,-0.1125 -5.90101,-0.075 -9.83385,-0.1875 -9.83385,-0.1875"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path42-8"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 378.4949,402.87839 c 0,0 -1.72257,0.075 -4.30471,0.125 -2.58563,0.0625 -6.03081,0.1 -9.47598,0.1 -3.44518,0 -6.89037,-0.0375 -9.47248,-0.1 -2.58564,-0.05 -4.30825,-0.125 -4.30825,-0.125 0,0 1.72261,-0.0625 4.30825,-0.125 2.58211,-0.05 6.0273,-0.1 9.47248,-0.0875 3.44517,-0.0125 6.89035,0.0375 9.47598,0.0875 2.58214,0.0625 4.30471,0.125 4.30471,0.125"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path48-9"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 269.79989,409.89089 c 0,0 3.15749,-0.1 7.89725,-0.175 2.37164,-0.025 5.13618,-0.075 8.09722,-0.1 2.96102,-0.025 6.12203,-0.025 9.28302,-0.0375 3.15751,0.0125 6.31851,0.0125 9.27955,0.0375 2.96102,0.025 5.72559,0.075 8.09723,0.1 4.73974,0.075 7.89724,0.175 7.89724,0.175 0,0 -3.1575,0.0875 -7.89724,0.1625 -2.37164,0.025 -5.13621,0.075 -8.09723,0.1 -2.96104,0.025 -6.12204,0.025 -9.27955,0.0375 -3.16099,-0.0125 -6.322,-0.0125 -9.28302,-0.0375 -2.96104,-0.025 -5.72558,-0.075 -8.09722,-0.1 -4.73976,-0.075 -7.89725,-0.1625 -7.89725,-0.1625"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path50-0"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 279.08645,414.19089 c 0,0 4.08718,-0.1125 10.22326,-0.1875 3.06627,-0.0375 6.64475,-0.1 10.47937,-0.1125 3.83461,-0.0125 7.92532,-0.025 12.01602,-0.05 4.08721,0.025 8.17793,0.0375 12.01252,0.05 3.83459,0.0125 7.4131,0.075 10.47939,0.1 6.13605,0.0875 10.22676,0.2 10.22676,0.2 0,0 -4.09071,0.1125 -10.22676,0.2 -3.06629,0.025 -6.6448,0.0875 -10.47939,0.0998 -3.83459,0.0126 -7.92531,0.0249 -12.01252,0.0503 -4.0907,-0.0254 -8.18141,-0.0376 -12.01602,-0.0503 -3.83462,-0.0125 -7.4131,-0.0747 -10.47937,-0.11225 -6.13608,-0.075 -10.22326,-0.1875 -10.22326,-0.1875"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path52-5"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 282.18079,421.44077 c 0,0 2.59614,-0.0874 6.4939,-0.16263 1.94713,-0.0125 4.22053,-0.0625 6.65531,-0.0751 2.43478,-0.0125 5.03444,-0.0249 7.63062,-0.0371 2.59966,0.0125 5.19583,0.0249 7.63062,0.0371 2.43475,0 4.70817,0.063 6.65527,0.0751 3.89776,0.0753 6.49394,0.16263 6.49394,0.16263 0,0 -2.59618,0.0874 -6.49394,0.14987 -1.9471,0.025 -4.22052,0.0753 -6.65527,0.0875 -2.43479,0.0126 -5.03096,0.0249 -7.63062,0.0375 -2.59618,-0.0126 -5.19584,-0.0249 -7.63062,-0.0375 -2.43478,-0.0125 -4.70818,-0.0625 -6.65531,-0.0875 -3.89776,-0.0625 -6.4939,-0.14987 -6.4939,-0.14987"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path56-8"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 273.92569,424.27814 c 0,0 2.36811,-0.0874 5.91856,-0.14987 1.77519,-0.0249 3.84863,-0.0751 6.06587,-0.0874 2.22079,0 4.5889,-0.0128 6.95352,-0.0254 2.36812,0.0126 4.73625,0.0254 6.95702,0.0254 2.21726,0.0125 4.29069,0.0625 6.06591,0.0874 3.55041,0.0625 5.91853,0.14987 5.91853,0.14987 0,0 -2.36812,0.0753 -5.91853,0.13775 -1.77522,0.0249 -3.84865,0.0747 -6.06591,0.0874 -2.22077,0.0125 -4.5889,0.0249 -6.95702,0.0376 -2.36462,-0.0128 -4.73273,-0.0254 -6.95352,-0.0376 -2.21724,-0.0126 -4.29068,-0.0625 -6.06587,-0.0874 -3.55045,-0.0625 -5.91856,-0.13775 -5.91856,-0.13775"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path58-6"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 382.39967,426.37827 c 0,0 -4.08719,0.10012 -10.22325,0.1875 -3.06629,0.0249 -6.64476,0.0874 -10.47938,0.10012 -3.8346,0.0249 -7.92531,0.0371 -12.01601,0.0497 -4.09072,-0.0126 -8.17792,-0.0249 -12.01253,-0.0375 -3.83459,-0.0125 -7.41309,-0.0875 -10.48287,-0.11237 -6.13256,-0.0751 -10.22327,-0.1875 -10.22327,-0.1875 0,0 4.09071,-0.11225 10.22327,-0.20013 3.06978,-0.025 6.64828,-0.0875 10.48287,-0.10012 3.83461,-0.0125 7.92181,-0.0371 12.01253,-0.0499 4.0907,0.0128 8.18141,0.0376 12.01601,0.0499 3.83462,0.0126 7.41309,0.0751 10.47938,0.10012 6.13605,0.0879 10.22325,0.20013 10.22325,0.20013"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path60-63"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 398.759,421.01602 c 0,0 -1.56469,0.0874 -3.91176,0.16212 -2.35059,0.0625 -5.48352,0.11275 -8.61294,0.11275 -3.13295,0 -6.26588,-0.0503 -8.61296,-0.11275 -2.35058,-0.0747 -3.91528,-0.16212 -3.91528,-0.16212 0,0 1.5647,-0.0879 3.91528,-0.15038 2.34708,-0.0747 5.48001,-0.125 8.61296,-0.125 3.12942,0 6.26235,0.0503 8.61294,0.125 2.34707,0.0625 3.91176,0.15038 3.91176,0.15038"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path62-8"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 370.46434,418.99064 c 0,0 -2.59965,0.0879 -6.49389,0.15038 -1.95063,0.0249 -4.22405,0.0746 -6.65884,0.0874 -2.43475,0.0125 -5.03092,0.0249 -7.63058,0.0376 -2.59618,-0.0127 -5.19586,-0.0254 -7.63061,-0.0376 -2.43479,-0.0127 -4.70818,-0.0625 -6.65531,-0.0874 -3.89775,-0.0625 -6.49393,-0.15038 -6.49393,-0.15038 0,0 2.59618,-0.0875 6.49393,-0.16212 1.94713,-0.0127 4.22052,-0.0752 6.65531,-0.0752 2.43475,-0.0126 5.03443,-0.0249 7.63061,-0.0376 2.59966,0.0128 5.19583,0.025 7.63058,0.0376 2.43479,0 4.70821,0.0625 6.65884,0.0752 3.89423,0.0746 6.49389,0.16212 6.49389,0.16212"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path64-5"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 373.41134,411.46589 c 0,0 -1.72259,0.0625 -4.30822,0.125 -2.58213,0.05 -6.02731,0.1 -9.47248,0.0875 -3.44519,0.0125 -6.89036,-0.0375 -9.476,-0.0875 -2.58213,-0.0625 -4.30472,-0.125 -4.30472,-0.125 0,0 1.72259,-0.075 4.30472,-0.1375 2.58564,-0.05 6.03081,-0.1 9.476,-0.0875 3.44517,-0.0125 6.89035,0.0375 9.47248,0.1 2.58563,0.05 4.30822,0.125 4.30822,0.125"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path66-2"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 358.30448,407.99089 c 0,0 -1.72257,0.075 -4.30822,0.125 -2.58213,0.0625 -6.02731,0.1 -9.47249,0.1 -3.44516,0 -6.89034,-0.0375 -9.476,-0.1 -2.5821,-0.05 -4.30471,-0.125 -4.30471,-0.125 0,0 1.72261,-0.0625 4.30471,-0.125 2.58566,-0.05 6.03084,-0.1 9.476,-0.1 3.44518,0 6.89036,0.05 9.47249,0.1 2.58565,0.0625 4.30822,0.125 4.30822,0.125"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path68-3"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 410.20012,430.57802 c 0,0 -3.70471,0.063 -9.26555,0.1255 -5.55332,0.0498 -12.96272,0.0996 -20.37217,0.0996 -7.40944,0 -14.81886,-0.0499 -20.37971,-0.0996 -5.5533,-0.0625 -9.25799,-0.1255 -9.25799,-0.1255 0,0 3.70469,-0.0747 9.25799,-0.125 5.56085,-0.062 12.97027,-0.0996 20.37971,-0.0996 7.40944,0 14.81885,0.0376 20.37217,0.0996 5.56084,0.0503 9.26555,0.125 9.26555,0.125"
+       inkscape:export-filename="/home/eba/local/feedthebird/Assets/GUI/path70-7.png"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path70-7"
+       style="fill:#5a392f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 403.47771,416.29089 c 0,0 -3.19608,0.11225 -7.99198,0.1875 -2.39617,0.0371 -5.19582,0.0874 -8.19194,0.11225 -2.9961,0.025 -6.19219,0.025 -9.38828,0.0376 -3.19609,0 -6.39217,-0.0126 -9.38828,-0.0376 -2.99612,-0.0249 -5.79576,-0.0751 -8.19195,-0.11225 -4.79236,-0.0753 -7.99197,-0.1875 -7.99197,-0.1875 0,0 3.19961,-0.11275 7.99197,-0.1875 2.39619,-0.0376 5.19583,-0.0874 8.19195,-0.11275 2.99611,-0.025 6.19219,-0.025 9.38828,-0.0371 3.19608,0.0125 6.39217,0.0125 9.38828,0.0371 2.99612,0.0254 5.79578,0.0751 8.19194,0.11275 4.7959,0.0747 7.99198,0.1875 7.99198,0.1875"
+       inkscape:export-xdpi="214.73566"
+       inkscape:export-ydpi="214.73566" />
+  </g>
+</svg>

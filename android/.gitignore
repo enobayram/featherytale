@@ -1,0 +1,12 @@
+/.gradle
+/build
+/src/libs
+/src/obj
+gradle-app.setting
+.idea/
+android.iml
+local.properties
+android-release.apk
+manifest-merger-release-report.txt
+keys/passwd
+orxcrypt.log

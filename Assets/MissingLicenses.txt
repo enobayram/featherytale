@@ -1,0 +1,2 @@
+/working_directory/common/sounds/punch.ogg: http://sep800.mine.nu/files/sounds/punch.wav
+/working_directory/common/sounds/bite.ogg: http://www.threecaster.com/wavy/bite.wav

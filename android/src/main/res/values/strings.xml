@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Feathery Tale</string>
+    <string name="level_start_ad">ca-app-pub-7364114684182255/5753733927</string>
+    <string name="license_key">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlGp6muSwOxKMUjXjS8UK8/0TRe4mDg5SvByJjyOuhVGUhjfzFfvIwE3KmRssMZBqrlhkHjv6c5VeRJwj/2+Ambz0ECeIeAKJEENPtk5NkBfyn6YVlEEQLrrSTjpc+YqdDVmifHb+JR315g4emmUFT5zc5oDbEAlSqAkpw7ATxkmjd5authrxq7hI1KS6sbubFOnNok7pW6jUpPi2ThnyhyktXZUBU+SMxdvjIp1lOTavpDGuT3ss2V4DC+3l3Ens4n23eBN7N4oYbVNpfG6W2ZqN4tpvux6hFwYTqPx/Fy8xCnziQZRCfUEaLzkNRvfmzUEktqyuxsPNcgPLwG1MmwIDAQAB</string>
+    <string name="facebook_app_id">629891207162180</string>
+</resources>
